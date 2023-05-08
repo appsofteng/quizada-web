@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/znojmo-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Znojmo_-_panorama_od_jihu_obr1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/znojmo-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Znojmo_Old_Town_Panorama_from_Castle_20190217.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/znojmo-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Znojmo_a_Dyje_(Znaim_und_Thaya)_-_panorama.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/znojmo-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Znojmo-Railway_Bridge.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/znojmo-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Znojmo"
+        }
+    }
+]

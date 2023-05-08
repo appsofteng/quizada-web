@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/dolni-letohradek-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Park_Baumgarten_Prag_Geb%C3%A4ude_2.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/dolni-letohradek-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0lechtova_restaurace#/map/0"
+        }
+    }
+]

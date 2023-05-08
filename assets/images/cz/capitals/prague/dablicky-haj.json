@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dablicky-haj-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PP_L%C3%A1dv%C3%AD_(6).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/dablicky-haj-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.136944&mlon=14.466667&zoom=15#map=12/50.1109/14.4661"
+        }
+    }
+]

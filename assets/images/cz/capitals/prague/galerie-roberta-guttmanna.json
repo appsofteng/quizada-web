@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/galerie-roberta-guttmanna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Stare_Mesto_U_Stare_skoly_3_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/galerie-roberta-guttmanna-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Galerie_Roberta_Guttmanna#/map/0"
+        }
+    }
+]

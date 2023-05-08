@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/anenske-namesti-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_Anensk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD,_od_Anensk%C3%A9_ke_St%C5%99%C3%ADbrn%C3%A9.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/anenske-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_Anensk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/anenske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Anensk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/carlsbad-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_Czech.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/carlsbad-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_%C5%99eka_Tepl%C3%A1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/carlsbad-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_vyhl%C3%ADdka_Karla_IV._pohled_na_Karlovy_Vary_z%C3%A1%C5%99%C3%AD_2022_(1).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/carlsbad-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Karlovy_Vary"
+        }
+    }
+]

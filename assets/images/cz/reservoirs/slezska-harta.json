@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/slezska-harta-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slezsk%C3%A1_Harta_-_sypan%C3%A1_hr%C3%A1z.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/slezska-harta-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slezsk%C3%A1_Harta_2020_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/slezska-harta-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Dlouhastran.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/slezska-harta-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Slezsk%C3%A1_Harta"
+        }
+    }
+]

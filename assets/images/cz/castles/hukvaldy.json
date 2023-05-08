@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/hukvaldy.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hukv09.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/hukvaldy-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hukvaldy"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-na-jezerce-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_Na_Jezerce_2.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-na-jezerce-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.058127&mlon=14.444816&zoom=15#map=13/50.0882/14.4445"
+        }
+    }
+]

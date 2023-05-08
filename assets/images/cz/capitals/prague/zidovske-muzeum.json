@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zidovske-muzeum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jewish_Museum_and_the_Spanish_synagogue_in_Prague.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zidovske-muzeum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/%C5%BDidovsk%C3%A9_muzeum_v_Praze#/map/0"
+        }
+    }
+]

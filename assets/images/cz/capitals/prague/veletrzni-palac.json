@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/veletrzni-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Veletr%C5%BEn%C3%AD_pal%C3%A1c_jih.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/veletrzni-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Veletr%C5%BEn%C3%AD_pal%C3%A1c_v%C3%BDchod.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/veletrzni-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Veletr%C5%BEn%C3%AD_pal%C3%A1c#/map/0"
+        }
+    }
+]

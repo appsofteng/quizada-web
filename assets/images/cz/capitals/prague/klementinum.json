@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klementinum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klementinum_pr%C5%AF%C4%8Del%C3%AD_7.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/klementinum-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klementinum_z_Mari%C3%A1nsk%C3%A9ho_n%C3%A1m_4.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klementinum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Klementinum#/map/0"
+        }
+    }
+]

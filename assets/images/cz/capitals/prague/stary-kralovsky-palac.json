@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stary-kralovsky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ji%C5%BEn%C3%AD_pr%C5%AF%C4%8Del%C3%AD_Vladislavsk%C3%A9ho_s%C3%A1lu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stary-kralovsky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Castle_View_To_Eastern.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stary-kralovsky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Star%C3%BD_kr%C3%A1lovsk%C3%BD_pal%C3%A1c_(Pra%C5%BEsk%C3%BD_hrad)#/map/0"
+        }
+    }
+]

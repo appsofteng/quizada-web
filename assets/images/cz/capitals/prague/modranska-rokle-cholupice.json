@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/modranska-rokle-cholupice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PP_Mod%C5%99ansk%C3%A1_rokle_(podzim_2018)_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/modranska-rokle-cholupice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Les_u_potoka_v_Mod%C5%99ansk%C3%A9_rokli.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/modranska-rokle-cholupice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Reten%C4%8Dn%C3%AD_n%C3%A1dr%C5%BE_v_Mod%C5%99ansk%C3%A9_rokli.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/modranska-rokle-cholupice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brezanske_udoli.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/modranska-rokle-cholupice-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Přírodní_park_Modřanská_rokle_–_Cholupice"
+        }
+    }
+]

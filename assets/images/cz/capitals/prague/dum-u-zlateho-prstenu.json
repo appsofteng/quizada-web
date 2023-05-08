@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dum-u-zlateho-prstenu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_T%C3%BDnsk%C3%A1_ul.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/dum-u-zlateho-prstenu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/D%C5%AFm_U_Zlat%C3%A9ho_prstenu#/map/0"
+        }
+    }
+]

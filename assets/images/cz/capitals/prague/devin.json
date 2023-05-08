@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/devin-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hradi%C5%A1t%C4%9B_D%C3%ADv%C4%8D%C3%AD_hrady.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/devin-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.047243&mlon=14.401229&zoom=15#map=12/50.0653/14.4577"
+        }
+    }
+]

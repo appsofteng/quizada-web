@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/cechuv-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_2005-09-19_%C4%8Cech%C5%AFv_most-00.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/cechuv-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img6.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/cechuv-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://en.wikipedia.org/wiki/Svatopluk_%C4%8Cech_Bridge#/map/0"
+        }
+    }
+]

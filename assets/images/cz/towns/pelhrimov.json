@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/pelhrimov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pelh%C5%99imov_(053).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pelhrimov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pelh%C5%99imov_10.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pelhrimov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ka%C5%A1na_se_sochou_svat%C3%A9ho_Jakuba,_Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_v_Pelh%C5%99imov%C4%9B.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pelhrimov-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pelh%C5%99imov,_straatzicht_Palack%C3%A9ho_IMG_6429_2018-08-02_14.32.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/pelhrimov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Pelh%C5%99imov"
+        }
+    }
+]

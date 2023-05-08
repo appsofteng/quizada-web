@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/bazilika-sv-jiri-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://en.wikipedia.org/wiki/File:Czech-03809_-_St._George%27s_Basilica_(32204970373).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/bazilika-sv-jiri-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Bazilika_svat%C3%A9ho_Ji%C5%99%C3%AD#/map/0"
+        }
+    }
+]

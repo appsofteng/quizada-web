@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/palac-zofin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%BDof%C3%ADn.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/palac-zofin-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%BDof%C3%ADn_a_n%C3%A1b%C5%99e%C5%BE%C3%AD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/palac-zofin-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Pal%C3%A1c_%C5%BDof%C3%ADn#/map/0"
+        }
+    }
+]

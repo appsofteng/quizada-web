@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/bechyne-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Bechyn%C4%9B,_L1.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bechyne-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bechyn%C4%9B"
+        }
+    }
+]

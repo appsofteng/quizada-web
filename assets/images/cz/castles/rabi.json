@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/rabi.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Rab%C3%AD_Castle_(4).JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/rabi-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Rab%C3%AD"
+        }
+    }
+]

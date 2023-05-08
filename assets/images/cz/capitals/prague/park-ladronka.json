@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/park-ladronka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cesta_na_Ladronce.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-ladronka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_B%C5%99evnov,_Ladronka,_kv%C4%9Btiny.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-ladronka-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_B%C5%99evnov,_park_Ladronka,_podchod_Kukulovy_ulice.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-ladronka-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rozhledna_%C5%A0i%C5%A1ka,_B%C5%99evnov,_Praha.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/park-ladronka-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ladronka#/map/0"
+        }
+    }
+]

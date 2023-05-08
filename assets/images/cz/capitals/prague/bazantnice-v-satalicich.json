@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/bazantnice-v-satalicich-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pheasant,_Prague_Satalice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/bazantnice-v-satalicich-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Alej_do_Vinorskeho_parku.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/bazantnice-v-satalicich-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.128464&mlon=14.576472&zoom=15#map=11/50.1285/14.5765"
+        }
+    }
+]

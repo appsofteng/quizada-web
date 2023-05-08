@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/hlavkuv-most-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hl%C3%A1vk%C5%AFv_most,_oblouky.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/hlavkuv-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hl%C3%A1vk%C5%AFv_most#/map/0"
+        }
+    }
+]

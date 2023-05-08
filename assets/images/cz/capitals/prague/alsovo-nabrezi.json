@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/alsovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_Al%C5%A1ovo_n%C3%A1b%C5%99e%C5%BE%C3%AD,_jih_03.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/alsovo-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_2006-11_050.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/alsovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Al%C5%A1ovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

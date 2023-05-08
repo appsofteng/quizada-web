@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-vaclava-havla-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A9_M%C4%9Bsto,_N%C3%A1rodn%C3%AD_divadlo,_Laterna_Magika.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-vaclava-havla-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:ND_Piazzetta_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-vaclava-havla-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_V%C3%A1clava_Havla_(Praha)#/map/0"
+        }
+    }
+]

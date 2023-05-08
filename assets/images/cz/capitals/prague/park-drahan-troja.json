@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/park-drahan-troja-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Drahansk%C3%A9_%C3%BAdol%C3%AD_a_Drahansk%C3%BD_potok_(13).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-drahan-troja-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Drahansk%C3%A9_%C3%BAdol%C3%AD_a_Drahansk%C3%BD_potok_(04).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/park-drahan-troja-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/P%C5%99%C3%ADrodn%C3%AD_park_Draha%C5%88-Troja#/map/0"
+        }
+    }
+]

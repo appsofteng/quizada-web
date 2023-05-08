@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/palac-lucerna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pal%C3%A1c_Lucerna_Praha_02.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/palac-lucerna-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Pal%C3%A1c_Lucerna#/map/0"
+        }
+    }
+]

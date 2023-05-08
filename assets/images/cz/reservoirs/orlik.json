@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/orlik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zv%C3%ADkov_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/orlik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Orl%C3%ADk_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/orlik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Orl%C3%ADk_6.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/orlik-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Orl%C3%ADk"
+        }
+    }
+]

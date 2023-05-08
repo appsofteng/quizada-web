@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kinskeho-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Sm%C3%ADchov,_Kinsk%C3%A9ho_zahrada,_jez%C3%ADrko.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kinskeho-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Sm%C3%ADchov,_Kinsk%C3%A9ho_zahrada,_podzim.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kinskeho-zahrada-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Kinsk%C3%A9ho_zahrada,_schodi%C5%A1t%C4%9B.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kinskeho-zahrada-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/#map=13/50.0899/14.4402"
+        }
+    }
+]

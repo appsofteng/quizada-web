@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/prazsky-metronom-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Letn%C3%A1,_Metronom.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prazsky-metronom-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czech-03836_-_Metronome_(32638405050).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/prazsky-metronom-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Pra%C5%BEsk%C3%BD_metronom#/map/0"
+        }
+    }
+]

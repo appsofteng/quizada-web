@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Novotn%C3%A9ho_l%C3%A1vka_n%C3%A1b%C5%99e%C5%BE%C3%AD_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2011-06_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:27.6.16_Prague_08_(27851844202).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_2006-11_123.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pedal_Boats_(263980323).jpeg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/smetanovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Smetanovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

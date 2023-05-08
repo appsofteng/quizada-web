@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/national-museum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague,_National_Museum_main_building_Oct2018_with_metro_station.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/national-museum-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%AD_muzeum_ve%C4%8Der_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/national-museum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_muzeum#/map/0"
+        }
+    }
+]

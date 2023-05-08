@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/zbrasovske-aragonitove-jeskyne.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Gejz%C3%ADrov%C3%A9_stalagmity.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/teplice-nad-becvou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Teplice_nad_Be%C4%8Dvou"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kampa-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kampa5.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kampa-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Park_Kampa.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kampa-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kampa_(js).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kampa-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:La_%C4%8Certovka_e_l%27isola_di_Kampa.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kampa-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kampa1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kampa-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.087189&mlon=14.408733&zoom=12#map=13/50.0872/14.4087"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/telc-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_Zachari%C3%A1%C5%A1e_z_Hradce,_Tel%C4%8D.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D_-_Markt_-_Panorama_II.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Teltsch.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D_(deutsch_Teltsch)_-_Czech_Republic.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Telc.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D,_Vnit%C5%99n%C3%AD_M%C4%9Bsto_04.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Telc-z-Oslednice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/telc-9.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Market_Square_in_Tel%C4%8D_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/telc-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Tel%C4%8D"
+        }
+    }
+]

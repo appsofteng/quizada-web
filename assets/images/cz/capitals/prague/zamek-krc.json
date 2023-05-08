@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/zamek-krc-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kr%C4%8D_z%C3%A1mek_sv._Havel_2.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/zamek-krc-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kr%C4%8D_(z%C3%A1mek)#/map/0"
+        }
+    }
+]

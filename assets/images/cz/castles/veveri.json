@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/veveri.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_Veve%C5%99%C3%AD_-_leteck%C3%BD_pohled_05_upraveny.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/brno-bystrc-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Brno-Bystrc"
+        }
+    }
+]

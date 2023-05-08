@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-jana-palacha-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_N%C3%A1m%C4%9Bst%C3%AD_Jana_Palacha_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-jana-palacha-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2018-08-13_CZ_Praha_01,_17._listopadu,_n%C3%A1m%C4%9Bst%C3%AD_Jana_Palacha,_Rudolfinum_(50043971233).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-jana-palacha-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Jana_Palacha#/map/0"
+        }
+    }
+]

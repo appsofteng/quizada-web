@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/chotkovy-sady-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hrad%C4%8Dany,_Chotkovy_sady_04.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/chotkovy-sady-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Julius_Zeyer_-_pam%C3%A1tn%C3%ADk_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/chotkovy-sady-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chotkovy_sady_(03).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/chotkovy-sady-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chotkovy_sady,_lavi%C4%8Dky.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/chotkovy-sady-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chotkovy_sady,_spodn%C3%AD_cesta.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/chotkovy-sady-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.093611&mlon=14.406667&zoom=15#map=13/50.0988/14.4341"
+        }
+    }
+]

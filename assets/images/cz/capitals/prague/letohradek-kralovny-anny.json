@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/letohradek-kralovny-anny-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad,_Letohr%C3%A1dek_kr%C3%A1lovny_Anny_02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/letohradek-kralovny-anny-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_1,_Pra%C5%BEsk%C3%BD_hrad,_Kr%C3%A1lovsk%C3%BD_letohr%C3%A1dek_20170807_001.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/letohradek-kralovny-anny-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Letohr%C3%A1dek_kr%C3%A1lovny_Anny#/map/0"
+        }
+    }
+]

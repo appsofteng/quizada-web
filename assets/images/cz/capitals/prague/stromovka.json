@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stromovka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Bubene%C4%8D,_pohled_na_jez%C3%ADrko_ve_Stromovce.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stromovka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Bubene%C4%8D,_Stromovka,_vodotrysk.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stromovka-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stromovka_rybn%C3%ADk_Slune%C4%8Dnice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stromovka-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Im_Park_Baumgarten_Prag_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stromovka-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stromovka_(12).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stromovka-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.106389&lon=14.419444&zoom=15&lang=cs"
+        }
+    }
+]

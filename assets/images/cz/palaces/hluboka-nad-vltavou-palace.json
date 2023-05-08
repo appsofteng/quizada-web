@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/hluboka-nad-vltavou-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_hlubok%C3%A1.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/hluboka-nad-vltavou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hlubok%C3%A1_nad_Vltavou"
+        }
+    }
+]

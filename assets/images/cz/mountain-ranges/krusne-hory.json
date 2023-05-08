@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/krusne-hory-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kl%C3%ADnovec_2014-06-08.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/krusne-hory-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vysok%C3%A1_se%C4%8D.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/krusne-hory-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Myslivny_bozi_dar_lake.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/krusne-hory-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Krusne_hory_CZ_I3A-2.png"
+        }
+    }
+]

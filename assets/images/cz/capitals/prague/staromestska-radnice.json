@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/staromestska-radnice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Clock_Tower.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/staromestska-radnice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Altstaedter_Ring_rathaus.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/staromestska-radnice-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Starom%C4%9Bstsk%C3%A1_radnice#/map/0"
+        }
+    }
+]

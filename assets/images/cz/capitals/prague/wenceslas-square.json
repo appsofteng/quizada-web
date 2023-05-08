@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/wenceslas-square.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2022-10-15_V%C3%A1clavsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/wenceslas-square-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/V%C3%A1clavsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

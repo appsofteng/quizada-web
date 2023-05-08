@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/podolska-vodarna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Podolsk%C3%A1_vod%C3%A1rna.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/podolska-vodarna-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Podol%C3%AD_panor%C3%A1ma_a_vod%C3%A1rna_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/muzeum-prazskeho-vodarenstvi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Muzeum_pra%C5%BEsk%C3%A9ho_vod%C3%A1renstv%C3%AD#/map/0"
+        }
+    }
+]

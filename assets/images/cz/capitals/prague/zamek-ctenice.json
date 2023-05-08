@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zamek-ctenice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ctenice_Castle.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zamek-ctenice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Ct%C4%9Bnice,_pohled_od_severu.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zamek-ctenice-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ct%C4%9Bnice_(z%C3%A1mek)#/map/0"
+        }
+    }
+]

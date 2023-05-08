@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stara-cistirna-odpadnich-vod-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Bubene%C4%8Dsk%C3%A1_%C4%8Dist%C3%ADrna_(07).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stara-cistirna-odpadnich-vod-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Star%C3%A1_%C4%8Dist%C3%ADrna_odpadn%C3%ADch_vod_(Praha-Bubene%C4%8D)#/map/0"
+        }
+    }
+]

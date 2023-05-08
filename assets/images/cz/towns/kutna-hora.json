@@ -1,0 +1,67 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czech_panorama_(4446984079).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Church_of_Saint_Barbara,_North_Facade,_Kurna_Hora.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kolej_jezuitsk%C3%A1_(Kutn%C3%A1_Hora)_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:KH-sv_Jakub.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kolej_jezuitsk%C3%A1_(Kutn%C3%A1_Hora).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:KUTNA_HORA_(js)_16.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Wloski-dwor.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kutna-hora-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cityscape_of_Kutn%C3%A1_Hora_-_Saint_James_church.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/kutna-hora-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kutn%C3%A1_Hora"
+        }
+    }
+]

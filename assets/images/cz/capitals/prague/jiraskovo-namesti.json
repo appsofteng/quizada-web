@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jiraskovo-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jir%C3%A1skovo_n%C3%A1m%C4%9Bst%C3%AD,_Jir%C3%A1sk%C5%AFv_pomn%C3%ADk.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/jiraskovo-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jiraskovo_namesti0.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jiraskovo-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Jir%C3%A1skovo_n%C3%A1m%C4%9Bst%C3%AD_(Praha)#/map/0"
+        }
+    }
+]

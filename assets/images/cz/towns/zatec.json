@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/zatec-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%BDatec,_n%C3%A1m%C4%9Bst%C3%AD_Svobody,_radnice_a_troji%C4%8Dn%C3%AD_sloup.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/zatec-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zatec_CZ_Rimg0253.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/zatec-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zatec_CZ_namesti_Svobody_PICT2967.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/zatec-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Saaz8.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/zatec-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C5%BDatec"
+        }
+    }
+]

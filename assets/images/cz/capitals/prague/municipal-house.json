@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/municipal-house-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jugendstil_Prag_Gemeindehaus_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/municipal-house-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Municipal_House_01.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/municipal-house-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.08762&mlon=14.42824&zoom=15#map=13/50.0876/14.4282"
+        }
+    }
+]

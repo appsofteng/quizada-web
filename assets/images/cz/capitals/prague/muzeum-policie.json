@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-augustinianu-kanovniku-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Karlov_kl%C3%A1%C5%A1ter_augustini%C3%A1n%C5%AF_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/muzeum-policie-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Muzeum_Policie_%C4%8Cesk%C3%A9_republiky#/map/0"
+        }
+    }
+]

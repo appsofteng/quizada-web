@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-kvetnice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kv%C4%9Btnice_garden1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-kvetnice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kv%C4%9Btnice_garden.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-kvetnice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kv%C4%9Btnice_garden2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zahrada-kvetnice-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.080762&mlon=14.398193&zoom=15#map=13/50.0970/14.4356"
+        }
+    }
+]

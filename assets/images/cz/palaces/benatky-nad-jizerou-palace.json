@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/benatky-nad-jizerou-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Benatky_zamek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/benatky-nad-jizerou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Ben%C3%A1tky_nad_Jizerou"
+        }
+    }
+]

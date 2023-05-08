@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/anezsky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ane%C5%BEsk%C3%BD_kl%C3%A1%C5%A1ter_sv._Salv%C3%A1tor_a_sv._Franti%C5%A1ek_4.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/anezsky-klaster-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ane%C5%BEsk%C3%BD_kl%C3%A1%C5%A1ter#/map/0"
+        }
+    }
+]

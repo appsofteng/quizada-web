@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-jiriho-z-podebrad-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nejsv._Srdce_P%C3%A1n%C4%9B_bok_6.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-jiriho-z-podebrad-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%ADho_Srdce_P%C3%A1n%C4%9B,_Vinohrady.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-jiriho-z-podebrad-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Font%C3%A1na_Sjednocen%C3%A1_Evropa,_n%C3%A1m%C4%9Bst%C3%AD_Ji%C5%99%C3%ADho_z_Pod%C4%9Bbrad,_Praha_3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-jiriho-z-podebrad-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Ji%C5%99%C3%ADho_z_Pod%C4%9Bbrad_(Praha)#/map/0"
+        }
+    }
+]

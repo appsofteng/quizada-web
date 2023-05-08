@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/olomouc-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Olomouc_letecky_3.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/olomouc-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Olomouc-Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/olomouc-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Olomouc_letecky_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/olomouc-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Olomouc_-_view.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/olomouc-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Olomouck%C3%A9_n%C3%A1m%C4%9Bst%C3%AD....JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/olomouc-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Olomouc"
+        }
+    }
+]

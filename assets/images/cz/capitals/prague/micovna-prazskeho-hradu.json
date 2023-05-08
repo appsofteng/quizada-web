@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/micovna-prazskeho-hradu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Praha_2014_Holmstad_palass_ved_slottshagen_castle_garden_palace_Kralovska_Zahrada.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/micovna-prazskeho-hradu-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kr%C3%A1lovsk%C3%A1_zahrada_M%C3%AD%C4%8Dovna.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/micovna-prazskeho-hradu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/M%C3%AD%C4%8Dovna_(Pra%C5%BEsk%C3%BD_hrad)#/map/0"
+        }
+    }
+]

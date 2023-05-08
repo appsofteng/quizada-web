@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/susice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Su%C5%A1ice_od_jihoz%C3%A1padu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/susice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Su%C5%A1ice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/susice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Su%C5%A1ice-n%C3%A1m%C4%9Bst%C3%AD_Svobody.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/susice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Su%C5%A1ice_%C5%A0umava.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/susice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Su%C5%A1ice_radnice.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/susice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Su%C5%A1ice"
+        }
+    }
+]

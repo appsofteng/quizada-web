@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kralovska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad,_Letohr%C3%A1dek_kr%C3%A1lovny_Anny_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kralovska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kr%C3%A1lovsk%C3%A1_zahrada_Pra%C5%BEsk%C3%A9ho_hradu1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kralovska-zahrada-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kr%C3%A1lovsk%C3%A1_zahrada_Pra%C5%BEsk%C3%A9ho_hradu2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kralovska-zahrada-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.093133&lon=14.401983&zoom=15&lang=cs"
+        }
+    }
+]

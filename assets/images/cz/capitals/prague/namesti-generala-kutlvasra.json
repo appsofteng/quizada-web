@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-generala-kutlvasra-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_Gener%C3%A1la_Kutlva%C5%A1ra,_shora.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-generala-kutlvasra-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_Gener%C3%A1la_Kutlva%C5%A1ra,_park.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-generala-kutlvasra-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Gener%C3%A1la_Kutlva%C5%A1ra#/map/0"
+        }
+    }
+]

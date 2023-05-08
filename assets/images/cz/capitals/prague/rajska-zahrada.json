@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/rajska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad,_Rajsk%C3%A1_zahrada-_panoramio_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/rajska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_m%C3%ADsa_v_Rajsk%C3%A9_zahrad%C4%9B_Hradu_(3).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/rajska-zahrada-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_v%C3%A1lcov%C3%BD_pavilonek.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/rajska-zahrada-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.089533&lon=14.400118&zoom=15&lang=cs"
+        }
+    }
+]

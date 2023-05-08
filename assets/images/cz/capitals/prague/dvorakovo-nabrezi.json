@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dvorakovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Lod%C4%9B_u_%C5%A0tef%C3%A1nikova_mostu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/dvorakovo-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_2006-11_46.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/dvorakovo-nabrezi-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto_-_Dvo%C5%99%C3%A1kovo_n%C3%A1b%C5%99e%C5%BE%C3%AD_3_(p%C5%99es_%C5%99eku).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/dvorakovo-nabrezi-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Univerzita_Karlova_v_Praze_Pr%C3%A1vnick%C3%A1_fakulta_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/dvorakovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Dvo%C5%99%C3%A1kovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

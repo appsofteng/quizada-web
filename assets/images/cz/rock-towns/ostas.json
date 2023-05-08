@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/ostas-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zr%C3%A1dce.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/ostas-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Osta%C5%A1_(51).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/ostas-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Osta%C5%A1_(35).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/ostas-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ostas_Matr.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/ostas-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.560833&mlon=16.207222&zoom=12#map=6/50.561/16.207"
+        }
+    }
+]

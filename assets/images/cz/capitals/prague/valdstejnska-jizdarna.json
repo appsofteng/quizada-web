@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnska-jizdarna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Vald%C5%A1tejnsk%C3%A1_j%C3%ADzd%C3%A1rna_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnska-jizdarna-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Mal%C3%A1_Strana,_Vald%C5%A1tejnsk%C3%A1_j%C3%ADzd%C3%A1rna_02.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/valdstejnska-jizdarna-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Vald%C5%A1tejnsk%C3%A1_j%C3%ADzd%C3%A1rna#/map/0"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/hruba-skala-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hruboskalsko_613_(cropped).jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/hruba-skala-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hrub%C3%A1_Sk%C3%A1la"
+        }
+    }
+]

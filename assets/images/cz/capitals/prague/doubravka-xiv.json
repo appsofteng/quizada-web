@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/doubravka-xiv-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Overview_of_Doubravka_XIV_viewtower_in_Prague.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/doubravka-xiv-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_rozhledna_Doubravka_(4).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/doubravka-xiv-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.09727&mlon=14.557313&zoom=15#map=11/50.0973/14.5573"
+        }
+    }
+]

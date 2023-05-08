@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/salmovsky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Salmovsk%C3%BD_pal%C3%A1c_-_n%C3%A1m%C4%9Bst%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/salmovsky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Salmovsk%C3%BD_pal%C3%A1c_-_n%C3%A1dvo%C5%99%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/salmovsky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Salmovsk%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

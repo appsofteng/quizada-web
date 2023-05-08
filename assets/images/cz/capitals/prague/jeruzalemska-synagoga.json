@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jeruzalemska-synagoga-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Jerusalemer-Synagoge_Feb-2014_IMG_2162.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jeruzalemska-synagoga-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Jeruzal%C3%A9msk%C3%A1_synagoga#/map/0"
+        }
+    }
+]

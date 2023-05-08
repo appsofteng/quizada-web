@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/humprecht-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Sobotka_leto2019%25_20(38)_edited.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/sobotka-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Sobotka"
+        }
+    }
+]

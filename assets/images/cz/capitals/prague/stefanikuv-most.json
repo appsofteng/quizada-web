@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stefanikuv-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Helmovsk%C3%BD_jez,_%C5%A0tef%C3%A1nik%C5%AFv_most_a_Pra%C5%BEsk%C3%BD_hrad,_ze_%C5%A0tvanice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stefanikuv-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stefanikuv_most.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stefanikuv-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0tef%C3%A1nik%C5%AFv_most#/map/0"
+        }
+    }
+]

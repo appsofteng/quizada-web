@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/dalesice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Dale%C5%A1ice_reservoir_form_Kozlov_island_rocks_near_Kozlov,_T%C5%99eb%C3%AD%C4%8D_District.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/dalesice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Dale%C5%A1ick%C3%A1_p%C5%99ehrada-alibaba_-_panoramio_(28).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/dalesice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Parn%C3%ADk_Vyso%C4%8Dina_z_Kozlova-alibaba_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/dalesice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Dale%C5%A1ice"
+        }
+    }
+]

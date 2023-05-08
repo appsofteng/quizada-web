@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/medvedi-stezka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hlava_telete,_Medv%C4%9Bd%C3%AD_stezka_(03).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/medvedi-stezka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kaple,_Medv%C4%9Bd%C3%AD_stezka_(03).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/medvedi-stezka-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sout%C4%9Bska_lapk%C5%AF,_Medv%C4%9Bd%C3%AD_stezka_(04).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/medvedi-stezka-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=48.8153&mlon=13.8803&zoom=12#map=6/49.368/17.490"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/nachod-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1chod_(z%C3%A1mek)"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/nachod-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1chod"
+        }
+    }
+]

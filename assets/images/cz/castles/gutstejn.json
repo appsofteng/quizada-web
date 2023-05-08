@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/gutstejn.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://cs.wikipedia.org/wiki/Gut%C5%A1tejn"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/okrouhle-hradiste-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Okrouhl%C3%A9_Hradi%C5%A1t%C4%9B"
+        }
+    }
+]

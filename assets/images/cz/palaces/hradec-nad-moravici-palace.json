@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/hradec-nad-moravici-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hradec2_396388-1382.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/hradec-nad-moravici-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hradec_nad_Moravic%C3%AD"
+        }
+    }
+]

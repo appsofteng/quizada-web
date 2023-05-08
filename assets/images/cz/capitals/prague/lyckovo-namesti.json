@@ -1,0 +1,17 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/lyckovo-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ly%C4%8Dkovo_n%C3%A1m%C4%9Bst%C3%AD_Praha_8-Karl%C3%ADn_02.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/lyckovo-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ly%C4%8Dkovo_n%C3%A1m%C4%9Bst%C3%AD#/map/0"        }
+    }
+]

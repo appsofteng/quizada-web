@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/lapidarium-narodniho-muzea-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hole%C5%A1ovice_v%C3%BDstavi%C5%A1t%C4%9B_Lapid%C3%A1rium_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/lapidarium-narodniho-muzea-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Lapid%C3%A1rium_N%C3%A1rodn%C3%ADho_muzea#/map/0"
+        }
+    }
+]

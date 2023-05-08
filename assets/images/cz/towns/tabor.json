@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/tabor-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tabor_CZ_aerial_old_town_from_north_B1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/tabor-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tabor_CZ_Zizka_Memorial_323.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/tabor-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tabor,Czech_Republic.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/tabor-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/T%C3%A1bor"
+        }
+    }
+]

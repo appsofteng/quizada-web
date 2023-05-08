@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/sloupsko-sosuvske-jeskyne-entry.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vstup_do_jeskyn%C3%AD,_p%C5%99%C3%ADrodn%C3%AD_rezervace_Sloup%C5%A1ko-%C5%A0o%C5%A1%C5%AFvsk%C3%A9_jeskyn%C4%9B,_okres_Blansko.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/caves/sloupsko-sosuvske-jeskyne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sloupskoso%C5%A1%C5%AFvsk%C3%A9_jeskyn%C4%9B10.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/sloup-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Sloup_(okres_Blansko)"
+        }
+    }
+]

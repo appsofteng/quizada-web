@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/krejcarek-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Les_Krejc%C3%A1rek_park.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/krejcarek-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Les_Krejc%C3%A1rek_informa%C4%8Dn%C3%AD_tabule.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/krejcarek-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.094837&mlon=14.477085&zoom=15#map=13/50.0971/14.4343"
+        }
+    }
+]

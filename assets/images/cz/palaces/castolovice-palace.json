@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/castolovice-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:%C4%8Castolovice6.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/castolovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Castolovice"
+        }
+    }
+]

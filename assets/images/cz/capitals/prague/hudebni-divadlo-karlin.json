@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/hudebni-divadlo-karlin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Overview_of_Karl%C3%ADn_Theatre_in_Karl%C3%ADn,_Prague.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/hudebni-divadlo-karlin-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.0901&mlon=14.441239&zoom=15#map=13/50.0809/14.4334"
+        }
+    }
+]

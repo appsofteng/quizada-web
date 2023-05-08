@@ -1,0 +1,32 @@
+{
+    "name": "conversation",
+    "contents": {
+        "alimentation": {
+            "meals": 9
+        },
+        "courtesy": {
+            "address": 7,
+            "agreement": 16,
+            "apology": 13,
+            "disagreement": 15,
+            "evasion": 13,
+            "greetings": 7,
+            "request": 11,
+            "thanks": 6
+        },
+        "numerals": {
+            "cardinals": {
+                "0-10": 11
+            }
+        },
+        "questions": {
+            "how": 9,
+            "how-much": 6,
+            "what": 13,
+            "when": 7,
+            "where": 11,
+            "who": 11,
+            "why": 6
+        }
+    }
+}

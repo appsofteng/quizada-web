@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-republiky-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:13-10-05-praha-RalfR-15.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-republiky-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:048_N%C3%A1m%C4%9Bst%C3%AD_Republiky_(pla%C3%A7a_de_la_Rep%C3%BAblica).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-republiky-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2011-06-11-praha-by-RalfR-145.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-republiky-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Republiky_(Praha)#/map/0"
+        }
+    }
+]

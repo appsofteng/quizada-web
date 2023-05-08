@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/chynovska-jeskyne-entry.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BDnovsk%C3%A1_jeskyn%C4%9B(vchod).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/caves/chynovska-jeskyne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ch%C3%BDnovsk%C3%A1_jeskyn%C4%9B(4).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/dolni-horice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Doln%C3%AD_Ho%C5%99ice"
+        }
+    }
+]

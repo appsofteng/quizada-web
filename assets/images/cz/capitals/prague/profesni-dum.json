@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/profesni-dum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Profesn%C3%AD_d%C5%AFm_(Mal%C3%A1_Strana).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/profesni-dum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Profesn%C3%AD_d%C5%AFm_(Mal%C3%A1_Strana)#/map/0"
+        }
+    }
+]

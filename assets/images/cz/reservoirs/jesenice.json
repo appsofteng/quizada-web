@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/jesenice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:30.8.16_3_V%C5%A1ebo%C5%99_1_(29239628872).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/jesenice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:30.8.16_3_V%C5%A1ebo%C5%99_5_(29269077141).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/jesenice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jezioro_w_okolicach_Chebu_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/jesenice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Jesenice"
+        }
+    }
+]

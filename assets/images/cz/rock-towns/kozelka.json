@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/kozelka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kozelka7.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/kozelka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kozelka3.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/kozelka-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=49.9944&mlon=13.158&zoom=15#map=6/49.994/18.083"
+        }
+    }
+]

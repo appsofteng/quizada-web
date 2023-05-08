@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/opocno-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Opo%C4%8Dno_from_air_11_crop.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/opocno-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Opo%C4%8Dno"
+        }
+    }
+]

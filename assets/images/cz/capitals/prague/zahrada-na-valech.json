@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-na-valech-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Zahrada_Na_Valech_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-na-valech-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Praha_2014_Holmstad_Utsyn_Prahaborgen.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-na-valech-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Praha_2014_Holmstad_flott_stairways_down_from_royal_castle_den_%C3%B8versta_trappa_ned_fra_de_s%C3%B8rlige_hagene_nedenunder_prahaborgen.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zahrada-na-valech-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.090691&lon=14.403249&zoom=15&lang=cs"
+        }
+    }
+]

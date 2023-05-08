@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Troja,_Botanick%C3%A1_zahrada,_Japonsk%C3%A1_zahrada.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Botanic_Garden1,_Prague_Troja.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Japanese_Botanic_Garden1,_Prague_Troja.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Troja,_vinice_svat%C3%A9_Kl%C3%A1ry.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Troja,_Botanick%C3%A1_zahrada,_z%C3%A1ti%C5%A1%C3%AD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/botanicka-zahrada-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.1187&mlon=14.4154&zoom=15#map=13/50.0957/14.4406"
+        }
+    }
+]

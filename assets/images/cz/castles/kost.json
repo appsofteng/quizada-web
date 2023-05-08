@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/kost.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kost-letecky-pohled.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/podkost-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Podkost"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rozhled_z_vyhlídky_U_Lvíčka_(13).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hruba_skala,_z%C3%A1mek.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hruboskalsko.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Taktovka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Lebka.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/hruboskalsko-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slackline.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/hruboskalsko-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.5516&mlon=15.1837&zoom=15#map=6/50.552/15.184"
+        }
+    }
+]

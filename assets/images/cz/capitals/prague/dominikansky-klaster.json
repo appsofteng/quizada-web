@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dominikansky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_svat%C3%A9ho_Jilj%C3%AD,_v_Praze_2.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/dominikansky-klaster-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Dominik%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_(Star%C3%A9_M%C4%9Bsto)#/map/0"
+        }
+    }
+]

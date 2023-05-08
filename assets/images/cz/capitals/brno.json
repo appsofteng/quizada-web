@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/brno-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno_Montage_IV.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/brno-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno_-_Cathedral_of_Saints_Peter_and_Paul_III.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/brno-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno_-_historick%C3%A9_j%C3%A1dro.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/brno-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Josefsk%C3%A1_street_in_Brno_I.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/brno-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno_-_Kone%C4%8Dn%C3%A9ho_n%C3%A1m%C4%9Bst%C3%AD_I.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/brno-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno,_%C5%A0t%C3%BD%C5%99ice,_Pra%C5%BE%C3%A1kova,_v%C3%BDhled_z_AZ_Toweru_(2013-05-22;_28).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/brno-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Brno"
+        }
+    }
+]

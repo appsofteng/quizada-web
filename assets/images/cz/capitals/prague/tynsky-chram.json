@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/tynsky-chram-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Old_Town_Hall_Tower_img2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/tynsky-chram-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%A9_Star%C3%A9_M%C4%9Bsto.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/tynsky-chram-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kostel_Panny_Marie_p%C5%99ed_T%C3%BDnem#/map/0"
+        }
+    }
+]

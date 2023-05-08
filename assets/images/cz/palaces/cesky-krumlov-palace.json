@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/cesky-krumlov-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov,_z%C3%A1mek_a_kostel_zdola3.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/cesky-krumlov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov"
+        }
+    }
+]

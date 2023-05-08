@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/novy-jicin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hlavn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/novy-jicin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Nov%C3%BD_Ji%C4%8D%C3%ADn"
+        }
+    }
+]

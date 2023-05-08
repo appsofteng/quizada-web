@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/ceske-budejovice-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ceske_Budejovice_kolaz.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ceske-budejovice-2.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Bud%C4%9Bjovice_-_centrum_letecky.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ceske-budejovice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2006-04-02_Budweis_013.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ceske-budejovice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Budweis_Marktplatz_Schwarzer_Turm.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ceske-budejovice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Budweis_059.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/ceske-budejovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A9_Bud%C4%9Bjovice"
+        }
+    }
+]

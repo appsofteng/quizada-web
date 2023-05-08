@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/hvezdarna-dablice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hv%C4%9Bzd%C3%A1rna_%C4%8E%C3%A1blice.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/hvezdarna-dablice-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hv%C4%9Bzd%C3%A1rna_%C4%8E%C3%A1blice#/map/0"
+        }
+    }
+]

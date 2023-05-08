@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/holesovicke-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hole%C5%A1ovick%C3%A9_n%C3%A1b%C5%99e%C5%BE%C3%AD_mezi_b%C3%BDval%C3%BDm_tramvajov%C3%BDm_mostem_a_nov%C3%BDm_Trojsk%C3%BDm_mostem.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/holesovicke-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hole%C5%A1ovick%C3%A9_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

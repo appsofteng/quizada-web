@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/emauzsky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Emauzsk%C3%BD_kl%C3%A1%C5%A1ter_6.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/emauzsky-klaster-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.072222&mlon=14.4175&zoom=15#map=13/50.0901/14.4513"
+        }
+    }
+]

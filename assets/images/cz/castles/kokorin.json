@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/kokorin.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kokorin_letecky_pohled.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/kokorin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Koko%C5%99%C3%ADn"
+        }
+    }
+]

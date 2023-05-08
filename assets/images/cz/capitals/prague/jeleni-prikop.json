@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jeleni-prikop-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Castle_Prasny_most_nasep.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/jeleni-prikop-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jelen%C3%AD_p%C5%99%C3%ADkop_horn%C3%AD_zimn%C3%AD_03.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jeleni-prikop-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.091721&mlon=14.39956&zoom=15#map=13/50.0933/14.4547"
+        }
+    }
+]

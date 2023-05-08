@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranske-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prahue_Malostranske_namesti_Pano.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranske-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana,_Malostransk%C3%A9_n%C3%A1m._Lichten%C5%A1tejnsk%C3%BD_pal%C3%A1c_12.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranske-namesti-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0ternbersk%C3%BD_pal%C3%A1c_a_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranske-namesti-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_Mikul%C3%A1%C5%A1_3.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranske-namesti-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Malostransk%C3%A9_n%C3%A1m.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/malostranske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

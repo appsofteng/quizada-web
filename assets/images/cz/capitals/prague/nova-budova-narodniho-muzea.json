@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/nova-budova-narodniho-muzea-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Feder%C3%A1ln%C3%AD_shrom%C3%A1%C5%BEd%C4%9Bn%C3%AD,_2010.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/nova-budova-narodniho-muzea-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Nov%C3%A1_budova_N%C3%A1rodn%C3%ADho_muzea#/map/0"
+        }
+    }
+]

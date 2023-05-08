@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-obutych-augustinianu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Augustini%C3%A1ni_vstup_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-obutych-augustinianu-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Augustini%C3%A1ni_n%C3%A1dvo%C5%99%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-obutych-augustinianu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_augustini%C3%A1n%C5%AF_(Praha)#/map/0"
+        }
+    }
+]

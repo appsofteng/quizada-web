@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/libensky-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Lighthouse_Libe%C5%88sk%C3%BD_most_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/libensky-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Uprost%C5%99ed_modern%C3%AD_architektury.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/libensky-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Libe%C5%88sk%C3%BD_most#/map/0"
+        }
+    }
+]

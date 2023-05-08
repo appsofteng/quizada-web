@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/castle-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-View_from_Charles_Bridge_of_Prague_Castle.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/castle-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hradschin_Prag.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/castle-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_panorama_at_castle.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/castle-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://en.wikipedia.org/wiki/Prague_Castle#/map/0"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/telc-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Tel%C4%8D_Castle_04.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/telc-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Tel%C4%8D"
+        }
+    }
+]

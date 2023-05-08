@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/lipnice-nad-sazavou.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:KLG_4903_CZ_-_Lipnice_nad_S%C3%A1zavou,_Burg_Lipnice.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/lipnice-nad-sazavou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Lipnice_nad_S%C3%A1zavou"
+        }
+    }
+]

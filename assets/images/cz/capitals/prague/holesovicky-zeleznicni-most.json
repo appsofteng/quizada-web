@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/holesovicky-zeleznicni-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pod_bulovkou-shora.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/holesovicky-zeleznicni-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Railway_station_praha_holesovice_and_adjacent_bridges.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/holesovicky-zeleznicni-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hole%C5%A1ovick%C3%BD_%C5%BEelezni%C4%8Dn%C3%AD_most#/map/0"
+        }
+    }
+]

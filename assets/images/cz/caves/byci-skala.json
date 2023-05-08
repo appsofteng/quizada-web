@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/byci-skala-entry.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%BD_kras,_B%C3%BD%C4%8D%C3%AD_sk%C3%A1la.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/caves/byci-skala-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:B%C3%BD%C4%8D%C3%AD_sk%C3%A1la.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/caves/byci-skala-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/B%C3%BD%C4%8D%C3%AD_sk%C3%A1la"
+        }
+    }
+]

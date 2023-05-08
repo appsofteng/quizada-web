@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dalejske-udoli-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Jinonice,_Opat%C5%99ilka.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/dalejske-udoli-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Jinonice,_Opat%C5%99ilka,_Dalejsk%C3%BD_potok.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/prokopske-udoli-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.041444&mlon=14.373944&zoom=15#map=12/50.0792/14.5057"
+        }
+    }
+]

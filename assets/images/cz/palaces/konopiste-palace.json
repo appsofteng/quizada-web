@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/konopiste-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Konopi%C5%A1t%C4%9B_ch%C3%A2teau_near_Bene%C5%A1ov,_Czech_Republic_adj.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/benesov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bene%C5%A1ov"
+        }
+    }
+]

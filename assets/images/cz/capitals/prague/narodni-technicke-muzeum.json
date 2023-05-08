@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/narodni-technicke-muzeum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Budova_N%C3%A1rodn%C3%ADho_technick%C3%A9ho_muzea_na_Letn%C3%A9.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/narodni-technicke-muzeum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_technick%C3%A9_muzeum_v_Praze#/map/0"
+        }
+    }
+]

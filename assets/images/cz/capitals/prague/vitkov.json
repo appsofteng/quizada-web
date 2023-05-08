@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vitkov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Vitkov.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vitkov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cesta_se_schody_z_Karl%C3%ADna_na_V%C3%ADtkov,_pohled_k_Invalidovn%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vitkov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vitkov_Praha_nmvv_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vitkov-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_%C5%BDi%C5%BEkov,_V%C3%ADtkovsk%C3%A1_tra%C5%A5,_schodi%C5%A1t%C4%9B_u_mostu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vitkov-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vinice_na_V%C3%ADtkov%C4%9B.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vitkov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.089167&mlon=14.452222&zoom=12#map=12/50.0892/14.4522"
+        }
+    }
+]

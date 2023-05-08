@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_st%C5%99edoho%C5%99%C3%AD_z_vrchu_Vysok%C3%BD_Ostr%C3%BD.jpeg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Porta_vanov.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Dubice_View_CZ_Deblik_Plesivec_Straziste_115.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:LovosMiles.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Porta_Bohemica.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Borecsky_vrch_CZ_view_towards_NW_587.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/ceske-stredohori-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Ceske_stredohori_CZ_I3B-5.png"
+        }
+    }
+]

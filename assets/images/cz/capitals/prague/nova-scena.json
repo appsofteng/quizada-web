@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/nova-scena-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Neue_Szene.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/nova-scena-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Calle_de_praga_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/nova-scena-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.08118&mlon=14.41435&zoom=15#map=13/50.0935/14.4344"
+        }
+    }
+]

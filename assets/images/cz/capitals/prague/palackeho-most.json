@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/palackeho-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Palackeho_most_v_Praze.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/palackeho-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Ra%C5%A1%C3%ADnovo-Quai_Palack%C3%BD-Br%C3%BCcke_530.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/palackeho-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Palack%C3%A9ho_most#/map/0"
+        }
+    }
+]

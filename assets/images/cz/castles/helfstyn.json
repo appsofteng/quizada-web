@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/helfstyn.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Helf%C5%A1t%C3%BDn.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/tyn-nad-becvou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/T%C3%BDn_nad_Be%C4%8Dvou"
+        }
+    }
+]

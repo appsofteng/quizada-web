@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/chrudim-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chrudim,_Resselovo_n%C3%A1m.,_severn%C3%AD_strana_(2018-07-01;_02).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/chrudim-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chrudim,_Czech_Republic_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/chrudim-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2012-08-28_12-34-11_Pentax_JH.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/chrudim-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Chrudim"
+        }
+    }
+]

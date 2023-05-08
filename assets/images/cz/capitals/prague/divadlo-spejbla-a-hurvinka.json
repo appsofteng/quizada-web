@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-spejbla-a-hurvinka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Spejbl_and_Hurvinek_Theatre_Dejvicka_Str_Prague_CZ_469.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-spejbla-a-hurvinka-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Divadlo_Spejbla_a_Hurv%C3%ADnka#/map/0"
+        }
+    }
+]

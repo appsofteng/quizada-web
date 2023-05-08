@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/obora-hvezda-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Liboc,_Obora_Hv%C4%9Bzda.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/obora-hvezda-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:OboraHvezda.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/obora-hvezda-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Liboc,_obora_Hv%C4%9Bzda,_cesta_s_list%C3%ADm.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/obora-hvezda-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Liboc,_Obora_Hv%C4%9Bzda,_p%C3%ADskovce.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/obora-hvezda-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.0825&mlon=14.330278&zoom=15#map=12/50.0992/14.4729"
+        }
+    }
+]

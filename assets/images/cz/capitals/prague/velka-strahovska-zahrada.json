@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/velka-strahovska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Strahovsk%C3%A1_zahrada,_louka_sm%C4%9Brem_k_rozhledn%C4%9B.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/velka-strahovska-zahrada-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.0866&lon=14.3921&zoom=15&lang=cs"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-vorsilek-hradcany-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dany_vojensk%C3%BD_kostel.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-vorsilek-hradcany-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.090289&mlon=14.393241&zoom=15#map=13/50.0888/14.4455"
+        }
+    }
+]

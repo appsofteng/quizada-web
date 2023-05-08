@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/sumava-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Lib%C3%ADn_rozhledna_(8).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/sumava-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Grosser-Arber-002.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/sumava-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cern%C3%A9_jezero,_%C5%A0umava_(CZE).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/sumava-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Sumava_CZ_I1B-1.png"
+        }
+    }
+]

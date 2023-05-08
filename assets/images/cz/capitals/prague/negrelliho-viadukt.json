@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/negrelliho-viadukt-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Negrelliho_viadukt_nad_levym_ramenem_Vltavy.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/negrelliho-viadukt-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Negrelliho_viadukt_z_Hlavkova_mostu.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/negrelliho-viadukt-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Negrelliho_viadukt#/map/0"
+        }
+    }
+]

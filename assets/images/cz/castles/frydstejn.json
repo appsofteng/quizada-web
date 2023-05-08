@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/frydstejn.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDd%C5%A1tejn_letecky.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/frydstejn-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Fr%C3%BDd%C5%A1tejn"
+        }
+    }
+]

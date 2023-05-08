@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/sternberk.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:CZ_Sternberg_-_Castle_3.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/sternberk-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0ternberk"
+        }
+    }
+]

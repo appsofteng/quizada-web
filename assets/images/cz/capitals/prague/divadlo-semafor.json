@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-semafor-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD,_Malostransk%C3%A1_beseda_(4).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-semafor-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.099167&mlon=14.397614&zoom=15#map=13/50.0992/14.3976"
+        }
+    }
+]

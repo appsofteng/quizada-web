@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vystavni-sin-manes-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:M%C3%A1nes_a_Vltava_1.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vystavni-sin-manes-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Budova_Spolku_v%C3%BDtvarn%C3%BDch_um%C4%9Blc%C5%AF_M%C3%A1nes#/map/0"
+        }
+    }
+]

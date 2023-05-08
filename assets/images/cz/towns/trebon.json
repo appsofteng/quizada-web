@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/trebon-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:T%C5%99ebo%C5%88_-_historick%C3%A9_j%C3%A1dro_obr1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/trebon-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:T%C5%99_n%C3%A1m%C4%9Bst%C3%AD_3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/trebon-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/T%C5%99ebo%C5%88"
+        }
+    }
+]

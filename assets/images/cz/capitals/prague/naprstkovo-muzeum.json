@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/naprstkovo-muzeum-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Budova_N%C3%A1prstkova_muzea,_Praha.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/naprstkovo-muzeum-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1prstkovo_muzeum_asijsk%C3%BDch,_africk%C3%BDch_a_americk%C3%BDch_kultur#/map/0"
+        }
+    }
+]

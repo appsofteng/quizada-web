@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/narodni-pamatnik-na-vitkove-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pam%C3%A1tn%C3%ADk_N%C3%A1rodn%C3%AD_pam%C3%A1tn%C3%ADk_(%C5%BDi%C5%BEkov).JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/narodni-pamatnik-na-vitkove-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1rodn%C3%AD_pam%C3%A1tn%C3%ADk_na_V%C3%ADtkov%C4%9B#/map/0"
+        }
+    }
+]

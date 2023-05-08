@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/berchtold-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Berchtold_15.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/vidovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vidovice"
+        }
+    }
+]

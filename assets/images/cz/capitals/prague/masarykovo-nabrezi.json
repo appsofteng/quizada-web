@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_N%C3%A1rodn%C3%AD_divadlo_02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Masarykovo_n%C3%A1b%C5%99e%C5%BE%C3%AD_a_most_na_Slovansk%C3%BD_ostrov.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:National_Theatre_-_Prague,_Czech_Republic_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2014-03-22_-_panoramio_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Botel_Matylda_082.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Masarykovo_N%C3%A1b%C5%99e%C5%BE%C3%AD_(247041655).jpeg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/masarykovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Masarykovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

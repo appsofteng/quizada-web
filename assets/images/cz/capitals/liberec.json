@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/liberec-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Liberec,_radnice,_v%C3%BDhled_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/liberec-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Liberec_z_Je%C5%A1t%C4%9Bdu_002.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/liberec-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Liberec_n%C3%A1m%C4%9Bst%C3%AD_a_radnice_3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/liberec-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Liberec"
+        }
+    }
+]

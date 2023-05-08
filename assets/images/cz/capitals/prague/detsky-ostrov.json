@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/detsky-ostrov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Detsky_ostrov_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/detsky-ostrov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%8Ele_D%C4%9Btsk%C3%BD_Prague_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/detsky-ostrov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.078333&mlon=14.409167&zoom=12#map=13/50.1008/14.4408"
+        }
+    }
+]

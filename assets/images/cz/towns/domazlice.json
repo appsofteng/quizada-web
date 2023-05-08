@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/domazlice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Domazlice_namesti.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/domazlice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doln%C3%AD_br%C3%A1na_(Pra%C5%BEsk%C3%A1),_Doma%C5%BElice.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/domazlice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doma%C5%BElice_at_dawn.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/domazlice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Domazlice_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/domazlice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Domazlice_czech_republic_may_2006.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/domazlice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Doma%C5%BElice"
+        }
+    }
+]

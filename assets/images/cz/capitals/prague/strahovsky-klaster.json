@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/strahovsky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:CZ-Prag-kloster-strachov-petrin.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/strahovsky-klaster-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hradcany_-_Strahovsky_klaster_(pohled_z_ulice_Uvoz).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/strahovsky-klaster-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Lesser_Town_Nicholas_Church_img7.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/strahovsky-klaster-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.086389&mlon=14.389444&zoom=15#map=13/50.0955/14.4453"
+        }
+    }
+]

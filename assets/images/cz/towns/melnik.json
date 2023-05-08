@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/melnik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Melnik_aerial_7964.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/melnik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk,_panorama.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/melnik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:M%C4%9Bln%C3%ADk_as_seen_from_the_church_tower_(01).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/melnik-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/M%C4%9Bln%C3%ADk"
+        }
+    }
+]

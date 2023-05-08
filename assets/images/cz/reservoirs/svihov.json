@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/svihov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:KLG_4893_CZ_-_Talsperre_%C5%A0vihov.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/svihov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Bernartice_(okres_Bene%C5%A1ov),_p%C5%99ehrada_%C5%A0vihov_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/svihov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Bernartice_(okres_Bene%C5%A1ov),_p%C5%99ehrada_%C5%A0vihov_(1).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/svihov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_%C5%A0vihov"
+        }
+    }
+]

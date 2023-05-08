@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/bubenske-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADstavi%C5%A1t%C4%9B_Pra%C5%BEsk%C3%A1_tr%C5%BEnice,_pob%C5%99e%C5%BEn%C3%AD_stezka_a_zast%C3%A1vkov%C3%BD_sloupek.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/bubenske-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Bubensk%C3%A9_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

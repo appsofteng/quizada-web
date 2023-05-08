@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/pecka.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://cs.wikipedia.org/wiki/Pecka_(hrad)"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/pecka-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Pecka_(okres_Ji%C4%8D%C3%ADn)"
+        }
+    }
+]

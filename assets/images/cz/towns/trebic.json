@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/trebic-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Leteck%C3%BD_pohled_na_centrum_T%C5%99eb%C3%AD%C4%8De_od_severoz%C3%A1padu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/trebic-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Trebic_horka-domky.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/trebic-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohled_na_T%C5%99eb%C3%AD%C4%8D_z_Ba%C5%A1ty.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/trebic-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Leteck%C3%BD_pohled_na_pam%C3%A1tku_UNESCO_v_T%C5%99eb%C3%AD%C4%8Di.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/trebic-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/T%C5%99eb%C3%AD%C4%8D"
+        }
+    }
+]

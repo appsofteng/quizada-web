@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/toskansky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dany_Tosk%C3%A1nsk%C3%BD_pal%C3%A1c_7.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/toskansky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dansk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_Tosk%C3%A1nsk%C3%BD_pal%C3%A1c.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/toskansky-palac-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tosk%C3%A1nsk%C3%BD_pal%C3%A1c_-_zd%C3%A1li.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/toskansky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Tosk%C3%A1nsk%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

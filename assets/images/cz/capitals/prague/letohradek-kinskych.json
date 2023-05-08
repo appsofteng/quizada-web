@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/letohradek-kinskych-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Letohradek_kinskych_praha_smichov.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/letohradek-kinskych-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kr%C4%8D_(z%C3%A1mek)#/map/0"
+        }
+    }
+]

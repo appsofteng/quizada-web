@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/kamyk-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Prague_Kam%C3%BDk_forest.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/kamyk-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.011871&mlon=14.439155&zoom=15#map=12/50.0587/14.4800"
+        }
+    }
+]

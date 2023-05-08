@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/kynzvart-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Kyn%C5%BEvart.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/lazne-kynzvart-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/L%C3%A1zn%C4%9B_Kyn%C5%BEvart"
+        }
+    }
+]

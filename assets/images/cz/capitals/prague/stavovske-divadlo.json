@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stavovske-divadlo-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stavovsk%C3%A9_divadlo_vstup_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stavovske-divadlo-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stavovsk%C3%A9_divadlo_ve%C4%8Der_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stavovske-divadlo-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.085778&mlon=14.423278&zoom=15#map=13/50.0858/14.4233"
+        }
+    }
+]

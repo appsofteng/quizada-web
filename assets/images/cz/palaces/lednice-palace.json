@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/lednice-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Lednice_(Eisgrub)_-_z%C3%A1mek.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/lednice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Lednice_(okres_B%C5%99eclav)"
+        }
+    }
+]

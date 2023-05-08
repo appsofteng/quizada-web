@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/kacina-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Ka%C4%8Dina_celek_1.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/svaty-mikulas-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Svat%C3%BD_Mikul%C3%A1%C5%A1_(okres_Kutn%C3%A1_Hora)"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/senovazne-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Nov%C3%A9_M%C4%9Bsto,_Senov%C3%A1%C5%BEn%C3%A9_n%C3%A1m.,_ka%C5%A1na.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/senovazne-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Senov%C3%A1%C5%BEn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_L%C3%A1scar.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/senovazne-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Senov%C3%A1%C5%BEn%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_(Praha)#/map/0"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/slapy-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slapyprehrada.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/slapy-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2011.10.15._Velk%C3%A1_u_Kam%C3%BDku_039.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/slapy-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Drb%C3%A1kov-Albertovy_sk%C3%A1ly_(10).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/slapy-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Slapy"
+        }
+    }
+]

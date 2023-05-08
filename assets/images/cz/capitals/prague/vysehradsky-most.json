@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vysehradsky-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:033_Vista_des_del_basti%C3%B3_sud-oest,_ponts_sobre_el_Vltava_i_el_Castell_al_fons.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vysehradsky-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%BDelmost.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vysehradsky-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://en.wikipedia.org/wiki/Vy%C5%A1ehrad_railway_bridge#/map/0"
+        }
+    }
+]

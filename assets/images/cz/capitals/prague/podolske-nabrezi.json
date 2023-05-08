@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/podolske-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Podolsk%C3%BD_p%C5%99%C3%ADstav_(01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/podolske-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Podolsky_pristav_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/podolske-nabrezi-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Podolsk%C3%A9_n%C3%A1b%C5%99e%C5%BE%C3%AD_u_podolsk%C3%A9_vod%C3%A1rny_(01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/podolske-nabrezi-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vltava_river_view_from_Vysehrad.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/podolske-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Podolsk%C3%A9_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

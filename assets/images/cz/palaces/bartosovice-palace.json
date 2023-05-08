@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/bartosovice-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice1-163576.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bartosovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Barto%C5%A1ovice"
+        }
+    }
+]

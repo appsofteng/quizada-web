@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/topicuv-salon-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Topi%C4%8D%C5%AFv_d%C5%AFm_3.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/topicuv-salon-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nakladatelstv%C3%AD_Topi%C4%8D%C5%AFv_d%C5%AFm_(Star%C3%A9_M%C4%9Bsto),_Praha_1,_N%C3%A1rodn%C3%AD_9,_Star%C3%A9_M%C4%9Bsto.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/topicuv-salon-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Topi%C4%8D%C5%AFv_salon#/map/0"
+        }
+    }
+]

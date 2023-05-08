@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/jeskyne-na-pomezi.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jeskyn%C4%9B_Na_Pomez%C3%AD_kr%C3%A1pn%C3%ADky.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/lipova-lazne-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Lipov%C3%A1-l%C3%A1zn%C4%9B"
+        }
+    }
+]

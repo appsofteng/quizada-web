@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-bosych-karmelitanu-mala-strana-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_kostel_PM_V%C3%ADt%C4%9Bzn%C3%A9_a_kl%C3%A1%C5%A1ter_3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-bosych-karmelitanu-mala-strana-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_bos%C3%BDch_karmelit%C3%A1n%C5%AF_(Mal%C3%A1_Strana)#/map/0"
+        }
+    }
+]

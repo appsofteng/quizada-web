@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/adrspach-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Adrspach_z%C3%A1mek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/adrspach-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Adr%C5%A1pach"
+        }
+    }
+]

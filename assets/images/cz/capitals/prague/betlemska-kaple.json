@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/betlemska-kaple-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Bethlehem_Chapel_front_adjusted.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/betlemska-kaple-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Betlemska_kaple.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/betlemske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Betl%C3%A9msk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

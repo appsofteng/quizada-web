@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/kadan-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kada%C5%88_2016-10-16.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kadan-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:MarktKaaden.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kadan-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Radni%C4%8Dn%C3%AD_v%C4%9B%C5%BE_v_Kadani.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/kadan-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kada%C5%88"
+        }
+    }
+]

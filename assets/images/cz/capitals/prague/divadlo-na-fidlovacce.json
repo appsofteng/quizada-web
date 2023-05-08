@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-na-fidlovacce-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_Na_Fidlova%C4%8Dce_2022.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-na-fidlovacce-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_na_fidlovacce3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-na-fidlovacce-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://commons.wikimedia.org/wiki/Category:Divadlo_Na_Fidlova%C4%8Dce#/map/0/15/50.0646/14.4357"
+        }
+    }
+]

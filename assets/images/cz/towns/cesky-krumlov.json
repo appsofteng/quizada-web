@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/cesky-krumlov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov,_historick%C3%A9_j%C3%A1dro.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/cesky-krumlov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cesky_Krumlov_-_panorama.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/cesky-krumlov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Schloss_%C4%8Cesk%C3%BD_Krumlov_bei_Nacht.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/cesky-krumlov-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:View_over_%C4%8Cesk%C3%BD_Krumlov_in_2012.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/cesky-krumlov-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_Moldau_Loop.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/cesky-krumlov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov"
+        }
+    }
+]

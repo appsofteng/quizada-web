@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vrtbovska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vrtbovsk%C3%A1_zahrada_celek.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vrtbovska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vrtbovsk%C3%A1_zahrada_a_Hrad_3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vrtbovska-zahrada-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.086422&mlon=14.402333&zoom=15#map=13/50.0931/14.4150"
+        }
+    }
+]

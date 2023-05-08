@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/jicin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czechia,_Jicin,_Wallenstein%27s_square_in_Spring.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jicin-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jic_nam_k_vychodu_DSCN2550.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jicin-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czechia,_Jicin,_Wallenstein%27s_square_aerial.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jicin-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jicin1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/jicin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Ji%C4%8D%C3%ADn"
+        }
+    }
+]

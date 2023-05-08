@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/dobris-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Dob%C5%99%C3%AD%C5%A1_5.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/dobris-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Dob%C5%99%C3%AD%C5%A1"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/cesky-sternberk.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_%C5%A0ternberk-hrad2.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/cesky-sternberk-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk"
+        }
+    }
+]

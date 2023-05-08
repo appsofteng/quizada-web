@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-panny-marie-vitezne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Jezul%C3%A1tko_z_Letn%C3%A9_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-panny-marie-vitezne-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_Panny_Marie_V%C3%ADt%C4%9Btn%C3%A9_z_Vrtbovsk%C3%A9_zahrady.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kostel-panny-marie-vitezne-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kostel_Panny_Marie_V%C3%ADt%C4%9Bzn%C3%A9_a_svat%C3%A9ho_Anton%C3%ADna_Padu%C3%A1nsk%C3%A9ho#/map/0"
+        }
+    }
+]

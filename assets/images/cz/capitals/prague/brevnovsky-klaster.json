@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/brevnovsky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:B%C5%99evnovsk%C3%BD_kl%C3%A1%C5%A1ter_(29).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/brevnovsky-klaster-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_B%C5%99evnov_monastery_from_SE_DSCN0284.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/brevnovsky-klaster-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/B%C5%99evnovsk%C3%BD_kl%C3%A1%C5%A1ter#/map/0"
+        }
+    }
+]

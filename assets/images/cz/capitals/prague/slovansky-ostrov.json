@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/slovansky-ostrov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slovansky_ostrov_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/slovansky-ostrov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slovansk%C3%BD_ostrov_a_Masarykovo_n%C3%A1b%C5%99e%C5%BE%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/slovansky-ostrov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slovansk%C3%BD_ostrov,_plavebn%C3%AD_komora_M%C3%A1nes.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/slovansky-ostrov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.079669&mlon=14.412467&zoom=12#map=13/50.0899/14.4312"
+        }
+    }
+]

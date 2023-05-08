@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zbraslavsky-klaster-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zbraslav.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zbraslavsky-klaster-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zbraslav_kl%C3%A1%C5%A1ter_4.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zbraslavsky-klaster-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Zbraslavsk%C3%BD_kl%C3%A1%C5%A1ter#/map/0"
+        }
+    }
+]

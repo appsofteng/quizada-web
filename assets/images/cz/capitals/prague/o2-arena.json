@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/o2-arena-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/Category:O2_Arena_(Prague)#/media/File:%C4%8Ceskomoravsk%C3%A1,_autobusy_a_ar%C3%A9na.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/o2-arena-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Libe%C5%88_O2_ar%C3%A9na_5a.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/o2-arena-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/O2_arena#/map/0"
+        }
+    }
+]

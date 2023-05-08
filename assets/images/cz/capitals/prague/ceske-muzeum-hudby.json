@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/ceske-muzeum-hudby-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Lesser_Town_Nicholas_Church_img8.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/ceske-muzeum-hudby-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%A9_muzeum_hudby#/map/0"
+        }
+    }
+]

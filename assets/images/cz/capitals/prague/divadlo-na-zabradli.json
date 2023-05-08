@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-na-zabradli-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_Na_Z%C3%A1bradl%C3%AD.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-na-zabradli-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Anensk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_5,_divadlo_Na_z%C3%A1bradl%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-na-zabradli-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.087069&mlon=14.415325&zoom=15#map=13/50.1044/14.4226"
+        }
+    }
+]

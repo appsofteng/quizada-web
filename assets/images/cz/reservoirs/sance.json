@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/sance-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0ance_panorama.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/sance-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C5%99ehrada-%C5%A1ance_-_panoramio_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/sance-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0ance_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/sance-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_%C5%A0ance"
+        }
+    }
+]

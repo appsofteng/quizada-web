@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/barrandovsky-most-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Barrandovsk%C3%BD_most,_leteck%C3%BD_pohled.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/barrandovsky-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://en.wikipedia.org/wiki/Barrandov_Bridge#/map/0"
+        }
+    }
+]

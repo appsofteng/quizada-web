@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/uhelny-trh-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Uhelny_trh.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/uhelny-trh-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Uheln%C3%BD_trh,_od_Michalsk%C3%A9.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/uhelny-trh-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Uheln%C3%BD_trh#/map/0"
+        }
+    }
+]

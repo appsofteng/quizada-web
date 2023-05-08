@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-nebozizek-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Mal%C3%A1_Strana,_podzimn%C3%AD_Pet%C5%99%C3%ADn_II.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zahrada-nebozizek-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Mal%C3%A1_Strana,_podzimn%C3%AD_Pet%C5%99%C3%ADn.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zahrada-nebozizek-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.081322&mlon=14.401531&zoom=15#map=13/50.1029/14.4258"
+        }
+    }
+]

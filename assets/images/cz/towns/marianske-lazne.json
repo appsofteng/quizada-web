@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/marianske-lazne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kolon%C3%A1da_M.Gork%C3%A9ho.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/marianske-lazne-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mar_l%C3%A1zn%C4%9B_Ferdinand%C5%AFv_pramen_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/marianske-lazne-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mari%C3%A1nsk%C3%A9_l%C3%A1zn%C4%9B_(Czech_town)_-_houses_in_center.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/marianske-lazne-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:The_Singing_Fountain_and_Colonnade,_Marianske_Lazne_(Marienbad),_Czech_Republic..jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/marianske-lazne-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Mari%C3%A1nsk%C3%A9_L%C3%A1zn%C4%9B"
+        }
+    }
+]

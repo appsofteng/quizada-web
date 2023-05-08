@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vysehradske-sady-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vy%C5%A1ehrad,_sochy_v_parku.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/vysehradske-sady-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_4,_Czech_Republic_-_panoramio_(20).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vysehradske-sady-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.063583&mlon=14.417957&zoom=15#map=13/50.0873/14.4390"
+        }
+    }
+]

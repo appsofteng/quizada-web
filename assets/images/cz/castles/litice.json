@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/litice.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:St%C3%A1tn%C3%AD_hrad_litice_autor_N%C3%A1rodn%C3%AD_pam%C3%A1tkov%C3%BD_%C3%BAstav,_spr%C3%A1va_st%C3%A1tn%C3%ADho_hradu_Litice.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/litice-nad-orlici-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Land%C5%A1tejn_(Star%C3%A9_M%C4%9Bsto_pod_Land%C5%A1tejnem)"
+        }
+    }
+]

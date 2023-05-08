@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-miru-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru_a_kostel_4.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-miru-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru,_divadlo.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-miru-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru_a_kostel.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-miru-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru_(Praha)#/map/0"
+        }
+    }
+]

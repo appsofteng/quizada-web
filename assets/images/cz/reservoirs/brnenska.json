@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/brnenska-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brn%C4%9Bnsk%C3%A1_p%C5%99ehrada.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/brnenska-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brno_Dam_03.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/brnenska-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Brn%C4%9Bnsk%C3%A1_p%C5%99ehrada_X.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/brnenska-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Brn%C4%9Bnsk%C3%A1_p%C5%99ehrada"
+        }
+    }
+]

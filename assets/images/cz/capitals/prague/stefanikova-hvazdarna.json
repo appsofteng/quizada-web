@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stefanikova-hvazdarna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stefanik_Observatory_Prague_CZ_03.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stefanikova-hvazdarna-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0tef%C3%A1nikova_hv%C4%9Bzd%C3%A1rna#/map/0"
+        }
+    }
+]

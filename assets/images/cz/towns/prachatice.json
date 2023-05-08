@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/prachatice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Town_hall_in_Prachatice_in_2011_(3).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/prachatice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Prachatice_from_natural_monument_Iruv_Dvur.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/prachatice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_svateho_Jakuba_v_Prachaticich_v_roce_2011_(1).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/prachatice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prachatice,_rozhledna_Lib%C3%ADn,_pohled_(2020-08-17;_01).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/prachatice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Prachatice"
+        }
+    }
+]

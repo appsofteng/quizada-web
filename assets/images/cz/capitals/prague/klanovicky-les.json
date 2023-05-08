@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klanovicky-les-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klanovicky_les2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/klanovicky-les-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_%C3%9Ajezd_nad_Lesy,_Kl%C3%A1novick%C3%BD_les,_b%C5%99ezov%C3%BD_h%C3%A1j.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/klanovicky-les-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_%C3%9Ajezd_nad_Lesy,_Kl%C3%A1novick%C3%BD_les,_slunce_a_stromy.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klanovicky-les-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.085353&mlon=14.685658&zoom=15#map=10/50.0792/14.4161"
+        }
+    }
+]

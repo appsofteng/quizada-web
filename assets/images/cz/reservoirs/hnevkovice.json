@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/hnevkovice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:26.7.16_Purkarec_to_Hluboka_nad_Vltavou_58_(28540469816).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hnevkovice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:26.7.16_Purkarec_to_Hluboka_nad_Vltavou_07_(28491527061).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hnevkovice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:26.7.16_Purkarec_to_Hluboka_nad_Vltavou_57_(28572944005).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/hnevkovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Hn%C4%9Bvkovice"
+        }
+    }
+]

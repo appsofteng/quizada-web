@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/castles/hazmburk-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Haz2020.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/castles/hazmburk-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hazmburk_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/klapy-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Klap%C3%BD"
+        }
+    }
+]

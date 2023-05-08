@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/basilica-st-peter-and-paul.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://es.wikipedia.org/wiki/Archivo:Vy%C5%A1ehrad_bazilika_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/basilica-st-peter-and-paul-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Bazilika_svat%C3%A9ho_Petra_a_Pavla#/map/0"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/chodovska-tvrz-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chodovsk%C3%A1_tvrz,_%C4%8Deln%C3%AD_pohled.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/chodovska-tvrz-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Chodovsk%C3%A1_tvrz#/map/0"
+        }
+    }
+]

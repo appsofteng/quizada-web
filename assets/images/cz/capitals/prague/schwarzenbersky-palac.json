@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/schwarzenbersky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Schwarzenbersk%C3%BD_pal%C3%A1c_1.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/schwarzenbersky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Schwarzenbersk%C3%BD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/schwarzenbersky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Schwarzenbersk%C3%BD_pal%C3%A1c_v_Praze#/map/0"
+        }
+    }
+]

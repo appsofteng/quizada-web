@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-obutych-karmelitanu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_SM_Karmelit%C3%A1nsk%C3%BD_kl%C3%A1%C5%A1ter_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-obutych-karmelitanu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_obut%C3%BDch_karmelit%C3%A1n%C5%AF_(Praha)#/map/0"
+        }
+    }
+]

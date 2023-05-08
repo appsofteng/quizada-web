@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/pardubice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pardubice_CZ_main_square.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/pardubice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pardubice,Per%C5%A1t%C3%BDnsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/pardubice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pardubice_-_Pern%C5%A1t%C3%BDnsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_a_Zelen%C3%A1_V%C4%9B%C5%BE.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/pardubice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Pardubice"
+        }
+    }
+]

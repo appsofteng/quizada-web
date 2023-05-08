@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnske-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vald%C5%A1tejnsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_od_severu.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/valdstejnske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Vald%C5%A1tejnsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

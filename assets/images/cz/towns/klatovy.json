@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/klatovy-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klatovy_-_panoramio_(7).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/klatovy-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klatovy_vyhled.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/klatovy-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klatovska_hurka.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/klatovy-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Klatovy"
+        }
+    }
+]

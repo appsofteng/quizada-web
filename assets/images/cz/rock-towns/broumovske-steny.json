@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Broumov4(js).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Broumov_kamenne_hriby.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vyhl%C3%ADdka_Sup%C3%AD_ko%C5%A11.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kov%C3%A1%C5%99ova_rokle_4.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rock_Theatre_at_Broumov_Rocks.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/broumovske-steny-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Broumovsk%C3%A9_st%C4%9Bny_-_Skaln%C3%AD_Divadlo_panorama.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/broumovske-steny-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.532778&mlon=16.308611&zoom=15#map=6/50.191/16.249"
+        }
+    }
+]

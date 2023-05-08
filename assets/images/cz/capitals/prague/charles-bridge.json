@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/charles-bridge-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/charles-bridge-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_charles_bridge_night.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/charles-bridge-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_-_Prague,_Czech_Republic_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/charles-bridge-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://en.wikipedia.org/wiki/Charles_Bridge#/map/0"
+        }
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "name": "prague",
+    "contents": {
+        "bridges": 24,
+        "castles": 15,
+        "galleries": 28,
+        "isles": 11,
+        "monasteries": 17,
+        "museums": 30,
+        "palaces": 16,
+        "parks": 23,
+        "squares": 32,
+        "temples": 18,
+        "theatres": 27,
+        "towers": 11,
+        "waterfronts": 15,
+        "woods": 22
+    }
+}

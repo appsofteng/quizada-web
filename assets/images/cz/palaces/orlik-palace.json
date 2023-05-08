@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/orlik-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Orl%C3%ADk_7.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/orlik-nad-vltavou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Orl%C3%ADk_nad_Vltavou"
+        }
+    }
+]

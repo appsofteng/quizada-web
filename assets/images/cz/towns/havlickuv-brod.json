@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/havlickuv-brod-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Koudelova_ka%C5%A1na_(18._stolet%C3%AD)_02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/havlickuv-brod-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Havl%C3%AD%C4%8Dk%C5%AFv_Brod_n%C3%A1m%C4%9Bst%C3%AD_-_2022_rok.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/havlickuv-brod-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Havlickuv_Brod_Havlickovo_namesti.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/havlickuv-brod-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Havl%C3%AD%C4%8Dk%C5%AFv_Brod,_straatzicht_Havl%C3%AD%C4%8Dkovo_N%C3%A1m%C4%9Bst%C3%AD_IMG_6513_2018-08-03_13.28.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/havlickuv-brod-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Radnice_(Havl%C3%AD%C4%8Dk%C5%AFv_Brod),_Havl%C3%AD%C4%8Dkovo_n%C3%A1m._87,_Havl%C3%AD%C4%8Dk%C5%AFv_Brod.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/havlickuv-brod-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Havl%C3%AD%C4%8Dk%C5%AFv_Brod"
+        }
+    }
+]

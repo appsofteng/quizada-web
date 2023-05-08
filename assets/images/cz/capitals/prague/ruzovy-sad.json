@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/ruzovy-sad-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADn,_R%C5%AF%C5%BEov%C3%BD_sad_a_%C5%A0tef%C3%A1nikova_hv%C4%9Bzd%C3%A1rna_(01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/ruzovy-sad-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zahrada_Pet%C5%99%C3%ADn_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/ruzovy-sad-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.0816&mlon=14.3969&zoom=15#map=13/50.0816/14.3970"
+        }
+    }
+]

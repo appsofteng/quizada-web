@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/slavonice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavonice-n%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/slavonice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavonice_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/slavonice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:I09_708_Obermarkt.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/slavonice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavonice,_n%C3%A1m%C4%9Bst%C3%AD_M%C3%ADru,_JV_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/slavonice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavonice-Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/slavonice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Slavonice"
+        }
+    }
+]

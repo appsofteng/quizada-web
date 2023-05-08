@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/vysoke-myto-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_P%C5%99emysla_Otakara_II._(Vysok%C3%A9_M%C3%BDto)_(cropped).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/vysoke-myto-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Litomy%C5%A1lsk%C3%A1_br%C3%A1na_ve_Vysok%C3%A9m_M%C3%BDt%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/vysoke-myto-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vysoke_Myto_-_Prazska_brana.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/vysoke-myto-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:VM_kostel_od_V_a_zvonice_DSC01300.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/vysoke-myto-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vysok%C3%A9_M%C3%BDto"
+        }
+    }
+]

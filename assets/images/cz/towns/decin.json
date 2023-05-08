@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/decin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin_namesti.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin_soutok.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_Letn%C3%A1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin_CZ_Pastyrska_stena_069.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_(Tetschen),_Czech_Republic.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Past%C3%BD%C5%99sk%C3%A1_st%C4%9Bna_a_n%C3%A1b%C5%99e%C5%BE%C3%AD,_D%C4%9B%C4%8D%C3%ADn.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_(12).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-9.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin_panorama.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-10.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Elbe_bei_Tetschen.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-11.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin_CZ_Rose_Garden_09.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-12.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn,_Masarykovo_n%C3%A1m%C4%9Bst%C3%AD_(2021)_(5).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-13.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Decin-Czech_Republic-panorama_(cropped).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/decin-14.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn_(Tetschen)_-_Rose_Garden.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/decin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn"
+        }
+    }
+]

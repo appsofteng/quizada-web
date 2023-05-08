@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/landstejn.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_Land%C5%A1tejn,_Star%C3%A9_M%C4%9Bsto_pod_Land%C5%A1tejnem_v%C3%BD%C5%99ez.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/landstejn-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Land%C5%A1tejn_(Star%C3%A9_M%C4%9Bsto_pod_Land%C5%A1tejnem)"
+        }
+    }
+]

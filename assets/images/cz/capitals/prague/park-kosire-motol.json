@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/park-kosire-motol-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADrodn%C3%AD_park_Ko%C5%A1%C3%AD%C5%99e-Motol.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-kosire-motol-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krajina_v_p%C5%99%C3%ADrodn%C3%ADm_parku_Ko%C5%A1%C3%AD%C5%99e-Motol.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-kosire-motol-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krajina_v_parku_Cibulka.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/park-kosire-motol-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Cibulka,_cesta_v_lesoparku.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/park-kosire-motol-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/P%C5%99%C3%ADrodn%C3%AD_park_Ko%C5%A1%C3%AD%C5%99e-Motol#/map/0"
+        }
+    }
+]

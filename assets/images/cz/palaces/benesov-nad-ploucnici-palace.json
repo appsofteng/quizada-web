@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/benesov-nad-ploucnici-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Horn%C3%AD_a_Doln%C3%AD_Bene%C5%A1ov_nad_Plou%C4%8Dnic%C3%AD,_Z%C3%A1meck%C3%A1,_n%C3%A1m._M%C3%ADru_47,_Bene%C5%A1ov_nad_Plou%C4%8Dnic%C3%AD_.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/benesov-nad-ploucnici-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bene%C5%A1ov_nad_Plou%C4%8Dnic%C3%AD"
+        }
+    }
+]

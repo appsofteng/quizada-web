@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-jary-cimrmana-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_-_%C5%BDi%C5%BEkovsk%C3%A9_T._G._M._(%C5%BDi%C5%BEkov).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-jary-cimrmana-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_-_%C5%BDi%C5%BEkovsk%C3%A9_T._G._M._(%C5%BDi%C5%BEkov).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-jary-cimrmana-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.085553&mlon=14.4492&zoom=15#map=13/50.0856/14.4492"
+        }
+    }
+]

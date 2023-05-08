@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/jizerske-hory-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Primaveal_forest_Jizera.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jizerske-hory-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C4%8Cert%C5%AFv_k%C3%A1men_v_Jizersk%C3%BDch_hor%C3%A1ch.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jizerske-hory-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/jizerske-hory-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Jizerske_hory_CZ_I4A-6.png"
+        }
+    }
+]

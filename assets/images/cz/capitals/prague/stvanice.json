@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/stvanice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ostrov_stvanice-vychodni_cip.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stvanice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0tvanice-elektr%C3%A1rna_(01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/stvanice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADstavi%C5%A1t%C4%9B_%C5%A0tvanice,_v_zim%C4%9B.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/stvanice-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.095817&mlon=14.438031&zoom=12#map=13/50.0958/14.4380"
+        }
+    }
+]

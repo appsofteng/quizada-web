@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/hruby-jesenik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrub%C3%BD_Jesen%C3%ADk,_pohled_z_Uhl%C3%AD%C5%99sk%C3%A9ho_vrchu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/hruby-jesenik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Dlouhe_strane_horni_nadrz.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/hruby-jesenik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PramenMoravice.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/hruby-jesenik-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hruby_Jesenik_CZ_I4C-7.png"
+        }
+    }
+]

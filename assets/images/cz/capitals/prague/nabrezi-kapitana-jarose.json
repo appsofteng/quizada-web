@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/nabrezi-kapitana-jarose-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hole%C5%A1ovice,_budova_Expo_58,_pohled_na_Prahu.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/nabrezi-kapitana-jarose-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:European_Union_Agency_for_the_Space_Programme-EUSPA_01.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/nabrezi-kapitana-jarose-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1b%C5%99e%C5%BE%C3%AD_Kapit%C3%A1na_Jaro%C5%A1e#/map/0"
+        }
+    }
+]

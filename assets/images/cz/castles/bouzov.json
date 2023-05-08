@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/bouzov.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Bouzov_hrad_(Burg_Busau)_-_by_Pudelek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bouzov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bouzov"
+        }
+    }
+]

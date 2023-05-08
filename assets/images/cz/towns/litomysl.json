@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/litomysl-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Hv%C4%9Bzda_Litomy%C5%A1l_(14).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/litomysl-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:LitomyslNamesti.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/litomysl-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Litom_n%C3%A1m_k_radnici_DSCN1426.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/litomysl-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Litomy%C5%A1l,_Smetanovo_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/litomysl-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Litomy%C5%A1l"
+        }
+    }
+]

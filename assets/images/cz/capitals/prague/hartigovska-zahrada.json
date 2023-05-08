@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/hartigovska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hartigovska_zahr_shora_DSCN8144.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/hartigovska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hartigovska_zahr_od_Z_pavilon_DSCN8140.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/hartigovska-zahrada-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://wiwosm.toolforge.org/osm-on-ol/kml-on-ol.php?lat=50.08967&lon=14.401514&zoom=15&lang=cs"
+        }
+    }
+]

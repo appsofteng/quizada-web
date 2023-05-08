@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/loket.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Loket0809.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/loket-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Loket_(okres_Sokolov)"
+        }
+    }
+]

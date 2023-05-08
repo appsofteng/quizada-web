@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/staromestska-vodarenska-vez-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_Novotn%C3%A9ho_l%C3%A1vka,_vod%C3%A1rensk%C3%A1_v%C4%9B%C5%BE_01.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/staromestska-vodarenska-vez-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Starom%C4%9Bstsk%C3%A1_vod%C3%A1rensk%C3%A1_v%C4%9B%C5%BE#/map/0"
+        }
+    }
+]

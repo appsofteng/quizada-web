@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/arcibiskupsky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Arcibiskupsky_palac_Hradcany_(3399).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/arcibiskupsky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague,_Czech_Republic,_April_2016_-_201.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/arcibiskupsky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Arcibiskupsk%C3%BD_pal%C3%A1c_v_Praze#/map/0"
+        }
+    }
+]

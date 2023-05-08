@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/hradcanske-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dansk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_ve%C4%8Der.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/hradcanske-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_1,_Pra%C5%BEsk%C3%BD_hrad,_I._n%C3%A1dvo%C5%99%C3%AD_20170807_001.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/hradcanske-namesti-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dansk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_s_mari%C3%A1nsk%C3%BDm_sloupem_v_pop%C5%99ed%C3%AD_0278.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/hradcanske-namesti-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Salmovsk%C3%BD_a_%C5%A0varcenbersk%C3%BD_pal%C3%A1c.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/hradcanske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hrad%C4%8Dansk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

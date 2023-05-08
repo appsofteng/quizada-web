@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/nabrezi-edvarda-benese-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C5%99%C3%ADstavi%C5%A1t%C4%9B_Evropsk%C3%A9_vodn%C3%AD_dopravy_u_%C4%8Cechova_mostu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/nabrezi-edvarda-benese-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1b%C5%99e%C5%BE%C3%AD_Edvarda_Bene%C5%A1e,_molo,_z_%C4%8Cechova_mostu.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/nabrezi-edvarda-benese-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1b%C5%99e%C5%BE%C3%AD_Edvarda_Bene%C5%A1e#/map/0"
+        }
+    }
+]

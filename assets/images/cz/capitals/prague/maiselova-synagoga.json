@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/maiselova-synagoga-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Maisel_Synagogue_after_the_Last_Reconstruction.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/maiselova-synagoga-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Josefov,_Maiselova_12_a_14.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/maiselova-synagoga-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Maiselova_synagoga#/map/0"
+        }
+    }
+]

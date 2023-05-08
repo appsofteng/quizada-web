@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/milicovsky-les-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Milicovsky_Forest1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/milicovsky-les-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Milicov-Louka.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/milicovsky-les-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Milicovsky_Forest_pond.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/milicovsky-les-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Milicovsky_Forest2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/milicovsky-les-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.020964&mlon=14.537549&zoom=15#map=11/50.0743/14.4800"
+        }
+    }
+]

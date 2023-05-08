@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/hanavsky-pavilon-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hanau_pavilion_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/hanavsky-pavilon-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hanavsk%C3%BD_pavilon_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/hanavsky-pavilon-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Hanavsk%C3%BD_pavilon#/map/0"
+        }
+    }
+]

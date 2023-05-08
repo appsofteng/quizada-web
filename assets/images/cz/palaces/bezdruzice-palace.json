@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/bezdruzice-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:349_53_Bezdru%C5%BEice,_Czech_Republic_-_panoramio.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bezdruzice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bezdru%C5%BEice"
+        }
+    }
+]

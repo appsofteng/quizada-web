@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/palac-kinskych-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Palace_Kinsky_PC.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/palac-kinskych-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_-_Palac_Goltz-Kinskych.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/palac-kinskych-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.087935&mlon=14.421655&zoom=15#map=13/50.0879/14.4217"
+        }
+    }
+]

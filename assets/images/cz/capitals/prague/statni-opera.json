@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/statni-opera-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:St%C3%A1tn%C3%AD_opera.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/statni-opera-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag-Smetana-Theater-2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/statni-opera-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.08028&mlon=14.43278&zoom=15#map=13/50.0803/14.4328"
+        }
+    }
+]

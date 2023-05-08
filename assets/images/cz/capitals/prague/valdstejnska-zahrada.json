@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Vald%C5%A1tejnsk%C3%BD_pal%C3%A1c_ze_zahrady_7.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Valdstejnsky_gardens_global.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/valdstejnska-zahrada-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.09&mlon=14.4075&zoom=15#map=13/50.0900/14.4075"
+        }
+    }
+]

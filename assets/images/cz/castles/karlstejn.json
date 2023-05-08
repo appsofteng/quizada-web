@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/karlstejn.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Zamek_Karl%C5%A1tejn.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/karlstejn-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Karl%C5%A1tejn_(m%C4%9Bstys)"
+        }
+    }
+]

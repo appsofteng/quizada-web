@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/upper-castle-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Parn%C3%ADk_Vy%C5%A1ehrad_pod_Vy%C5%A1ehradem.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/upper-castle-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vysehrad_as_seen_over_the_Vltava_from_Cisarska_louka_731.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/upper-castle-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Vy%C5%A1ehrad#/map/0"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/klokocske-skaly-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rotstein003.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/klokocske-skaly-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klokoci_-_Betlemske_skaly.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/klokocske-skaly-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klokoci_-_vostiny.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/klokocske-skaly-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Klokoci_-_pruchody.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/klokocske-skaly-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.597892&mlon=15.211544&zoom=15#map=6/50.598/15.212"
+        }
+    }
+]

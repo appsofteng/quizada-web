@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/okor.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Okor,_z%C5%99%C3%ADcenina_hradu.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/okor-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Oko%C5%99"
+        }
+    }
+]

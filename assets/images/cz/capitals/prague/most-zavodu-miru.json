@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/most-zavodu-miru-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:MostZavoduMiruPanorama.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/most-zavodu-miru-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Most_Z%C3%A1vodu_m%C3%ADru#/map/0"
+        }
+    }
+]

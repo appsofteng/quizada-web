@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/jindrichuv-hradec-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Jindrichuv_hradec_3.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/jindrichuv-hradec-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Jind%C5%99ich%C5%AFv_Hradec"
+        }
+    }
+]

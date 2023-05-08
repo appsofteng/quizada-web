@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_collage_2018.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_panorama.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vltava_in_Prague.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_from_Powder_Tower_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad_1.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_old_town_square_panorama.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Praha"
+        }
+    }
+]

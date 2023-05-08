@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/valecov.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_Vale%C4%8Dov,_leteck%C3%BD_sn%C3%ADmek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bosen-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bose%C5%88"
+        }
+    }
+]

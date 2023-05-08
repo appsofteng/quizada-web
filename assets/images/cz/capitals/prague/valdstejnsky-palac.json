@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnsky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Wallensteinpalatset.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnsky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vald%C5%A1tejnsk%C3%BD_pal%C3%A1c_v_Praze.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnsky-palac-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Valdstejnsky_Palace_Lobkowicz_wing.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/valdstejnsky-palac-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Vald%C5%A1tejnsk%C3%A1_zahrada_a_sala_terrena_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/valdstejnsky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Vald%C5%A1tejnsk%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

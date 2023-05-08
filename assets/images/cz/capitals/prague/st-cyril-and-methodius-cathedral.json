@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/st-cyril-and-methodius-cathedral.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://en.wikipedia.org/wiki/File:Pravoslavny_katedralni_chram_sv._Cyrila_a_Metodeje_Resslova_Praha.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/st-cyril-and-methodius-cathedral-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Pravoslavn%C3%BD_chr%C3%A1m_svat%C3%A9ho_Cyrila_a_Metod%C4%9Bje_(Praha)#/map/0"
+        }
+    }
+]

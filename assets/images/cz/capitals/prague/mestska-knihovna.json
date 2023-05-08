@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/mestska-knihovna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:MPK_%C4%8Delo_3.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/mestska-knihovna-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Budova_M%C4%9Bstsk%C3%A9_knihovny_(Praha)#/map/0"
+        }
+    }
+]

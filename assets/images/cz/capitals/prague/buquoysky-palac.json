@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/buquoysky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Buquoysk%C3%BD_pal%C3%A1c_1_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/buquoysky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:French_embassy_Prague_4019.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/buquoysky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Buquoysk%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

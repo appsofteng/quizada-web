@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/horejsi-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ho%C5%99ej%C5%A1%C3%AD_n%C3%A1b%C5%99e%C5%BE%C3%AD,_vodn%C3%AD_z%C3%A1chrann%C3%A1_slu%C5%BEba.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/horejsi-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Ho%C5%99ej%C5%A1%C3%AD_n%C3%A1b%C5%99e%C5%BE%C3%AD_123.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/horejsi-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ho%C5%99ej%C5%A1%C3%AD_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

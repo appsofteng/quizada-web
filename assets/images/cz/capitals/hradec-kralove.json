@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/hradec-kralove-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz)_-_Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/hradec-kralove-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_(Hradec_Kr%C3%A1lov%C3%A9)_02(js).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/hradec-kralove-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_K2_-_9.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/hradec-kralove-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz),_Wei%C3%9Fer_Turm_(26855536619).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/hradec-kralove-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hradec_Kr%C3%A1lov%C3%A9_(K%C3%B6niggr%C3%A4tz)_-_Salon_republiky.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/hradec-kralove-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hradec_Kr%C3%A1lov%C3%A9"
+        }
+    }
+]

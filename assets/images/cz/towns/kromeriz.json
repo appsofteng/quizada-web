@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/kromeriz-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE,_pohled_z_v%C4%9B%C5%BEe_z%C3%A1mku_3.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kromeriz-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE._Ausblick_vom_Schlossturm_(27102351359).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kromeriz-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krom%C4%9B%C5%99%C3%AD%C5%BE._Ausblick_vom_Schlossturm_(27102351729).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kromeriz-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kremsier-Gro%C3%9FerPlatz1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kromeriz-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Flower_Garden_Kromeriz.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/kromeriz-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Krom%C4%9B%C5%99%C3%AD%C5%BE"
+        }
+    }
+]

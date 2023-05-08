@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/podebrady-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:George_of_Pod%C4%9Bbrady_Sq_monument.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Libensk%C3%A9ho_kolon%C3%A1da,_Pod%C4%9Bbrady_(2008)_02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kolon%C3%A1da_prof._Libensk%C3%A9ho_s_kioskem_3.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nam._TGM,_Pod%C4%9Bbrady_(2008)_03.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Pod%C4%9Bbrady.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pod%C4%9Bbrady_-_z%C3%A1mek.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/podebrady-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pod%C4%9Bbradsk%C3%BD_z%C3%A1mek.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/podebrady-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Pod%C4%9Bbrady"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/dum-u-kamenneho-zvonu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_-_Dum_u_kamenneho_zvonu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/dum-u-kamenneho-zvonu-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Old_Town_sq_U_zvonu_CIMG0089.JPG"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/dum-u-kamenneho-zvonu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/D%C5%AFm_U_Kamenn%C3%A9ho_zvonu#/map/0"
+        }
+    }
+]

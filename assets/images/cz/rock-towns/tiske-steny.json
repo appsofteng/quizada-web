@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Labsk%C3%A9_p%C3%ADskovce-Tisk%C3%A9_st%C4%9Bny5.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Wahrzeichen-Tyssaer-W%C3%A4nde.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tyssaerwaende2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doggenturm-Tisa-01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tyssaer_waende,_sturzbl%C3%B6cke.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/tiske-steny-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Tisk%C3%A9_st%C4%9Bny.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/tiske-steny-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Relief_Map_of_Czech_Republic.png"
+        }
+    }
+]

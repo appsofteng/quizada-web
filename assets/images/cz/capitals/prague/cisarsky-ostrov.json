@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/cisarsky-ostrov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cisarsky_ostrov_panorama_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/cisarsky-ostrov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Dejvice,_Baba,_%C4%8Disti%C4%8Dka_vod.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/cisarsky-ostrov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.112586&mlon=14.421281&zoom=12#map=13/50.0816/14.4371"
+        }
+    }
+]

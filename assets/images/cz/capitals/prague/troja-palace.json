@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/troja-palace-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Troja_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/troja-palace-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Trojsk%C3%BD_z%C3%A1mek_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/troja-palace-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Tr%C3%B3ja,_pohled_na_Trojsk%C3%BD_z%C3%A1mek.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/troja-palace-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Troja_(z%C3%A1mek)#/map/0"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/krizovnicke-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_2006-11_046.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/krizovnicke-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:K%C5%99i%C5%BEovnick%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_kostel_sv._Salv%C3%A1tora.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/krizovnicke-namesti-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Charles_IV_Statue-03.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/krizovnicke-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/K%C5%99i%C5%BEovnick%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"        }
+    }
+]

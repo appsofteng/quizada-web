@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/choustnik.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_choustnik_vez.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/choustnik-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Choustn%C3%ADk"
+        }
+    }
+]

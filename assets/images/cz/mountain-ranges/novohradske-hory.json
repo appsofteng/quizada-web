@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/novohradske-hory-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohori_na_sumave_global.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/novohradske-hory-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krav%C3%AD_hora_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/novohradske-hory-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Krav%C3%AD_hora_nad_Hojnou_Vodou.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/novohradske-hory-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Novohradske_hory_CZ_I1B-3.png"
+        }
+    }
+]

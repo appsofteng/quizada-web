@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/velky-haj-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kr%C4%8D,_Velk%C3%BD_h%C3%A1j,_cesta_k_Z%C3%A1les%C3%AD.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/velky-haj-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.028887&mlon=14.435482&zoom=15#map=12/50.0629/14.4728"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jiraskuv-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Jir%C3%A1sk%C5%AFv_most_z_Ra%C5%A1%C3%ADnova_n%C3%A1b%C5%99e%C5%BE%C3%AD_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/jiraskuv-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jir%C3%A1sk%C5%AFv_most_a_Tancici_dum.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jiraskuv-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Jir%C3%A1sk%C5%AFv_most#/map/0"
+        }
+    }
+]

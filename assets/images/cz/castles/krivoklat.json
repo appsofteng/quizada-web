@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/krivoklat.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_K%C5%99ivokl%C3%A1t_-_z%C3%A1b%C4%9Br_od_pomn%C3%ADku_Karla_Egona_II._z_F%C3%BCrstenberka_crop.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/krivoklat-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/K%C5%99ivokl%C3%A1t_(m%C4%9Bstys)"
+        }
+    }
+]

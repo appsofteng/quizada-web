@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/veslarsky-ostrov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Veslarsky_ostrov_z_Vysehradu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/veslarsky-ostrov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vesla%C5%99sk%C3%BD_ostrov,_z_p%C5%99%C3%ADvozu_P3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/veslarsky-ostrov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.054722&mlon=14.416944&zoom=12#map=13/50.0803/14.4518"
+        }
+    }
+]

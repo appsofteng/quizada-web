@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/bezdez.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Bezdez.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/bezdez-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Bezd%C4%9Bz_(okres_%C4%8Cesk%C3%A1_L%C3%ADpa)"
+        }
+    }
+]

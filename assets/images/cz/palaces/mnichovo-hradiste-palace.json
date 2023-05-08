@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/mnichovo-hradiste-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Mnichovo_Hradi%C5%A1t%C4%9B_z%C3%A1mek_1.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/mnichovo-hradiste-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Mnichovo_Hradi%C5%A1t%C4%9B"
+        }
+    }
+]

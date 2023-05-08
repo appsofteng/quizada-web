@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/trosky.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Hrad_Trosky,_leteck%C3%BD_sn%C3%ADmek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/troskovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Troskovice"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-krizovniku-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_k%C5%99i%C5%BEovn%C3%ADci_a_Franti%C5%A1ek.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-krizovniku-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_k%C5%99i%C5%BEovn%C3%ADk%C5%AF_(Praha)#/map/0"
+        }
+    }
+]

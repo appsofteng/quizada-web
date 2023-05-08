@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/kralicky-sneznik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kralicky-Sneznik-04.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/kralicky-sneznik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2016_Masyw_%C5%9Anie%C5%BCnika,_Sudety.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/kralicky-sneznik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Snieznik_Klodzki_mountain_(southern_side).jpeg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/kralicky-sneznik-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kralicky_Sneznik_CZ_I4C-4.png"
+        }
+    }
+]

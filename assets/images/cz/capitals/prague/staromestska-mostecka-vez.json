@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/staromestska-mostecka-vez-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_karlsbr%C3%BCcke_br%C3%BCckenturm_altstadtseite.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/staromestska-mostecka-vez-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_Old_Town_Tower_3_(2540934426).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/staromestska-mostecka-vez-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Starom%C4%9Bstsk%C3%A1_mosteck%C3%A1_v%C4%9B%C5%BE#/map/0"
+        }
+    }
+]

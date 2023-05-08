@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/novomestska-radnice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Novom%C4%9Bstsk%C3%A1_radnice_2.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/novomestska-radnice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Novom%C4%9Bstsk%C3%A1_radnice_na_v%C3%BD%C5%A1ku.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/novomestska-radnice-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Novom%C4%9Bstsk%C3%A1_radnice#/map/0"
+        }
+    }
+]

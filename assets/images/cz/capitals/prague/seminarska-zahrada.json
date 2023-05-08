@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/seminarska-zahrada-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague,_Czech_Republic,_April_2016_-_364.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/seminarska-zahrada-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADn,_Semin%C3%A1%C5%99sk%C3%A1_zahrada.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/seminarska-zahrada-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://fr.wikipedia.org/wiki/Jardins_du_S%C3%A9minaire#/media/Fichier:Semin%C3%A1%C5%99sk%C3%A1_zahrada,_cesta_v_ovocn%C3%A9m_sadu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/seminarska-zahrada-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pet%C5%99%C3%ADn,_Semin%C3%A1%C5%99sk%C3%A1_zahrada,_font%C3%A1na_s_chlapci.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/seminarska-zahrada-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.08439&mlon=14.399957&zoom=15#map=13/50.0913/14.4509"
+        }
+    }
+]

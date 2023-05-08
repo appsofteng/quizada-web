@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/nove-hrady-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Nov%C3%A9_hrady12.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/nove-hrady-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Nov%C3%A9_Hrady_(okres_%C3%9Ast%C3%AD_nad_Orlic%C3%AD)"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-nejsvetejsiho-srdce-pane-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nejsv._Srdce_P%C3%A1n%C4%9B_bok_5.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-nejsvetejsiho-srdce-pane-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_Nejsv._Srdce_%C4%8Delo_2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kostel-nejsvetejsiho-srdce-pane-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kostel_Nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%ADho_srdce_P%C3%A1n%C4%9B_(Vinohrady)#/map/0"
+        }
+    }
+]

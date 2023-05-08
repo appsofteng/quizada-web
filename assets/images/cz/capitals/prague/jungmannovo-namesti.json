@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jungmannovo-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Jungmann_Adria.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/jungmannovo-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_Jungmann_Adria_ve%C4%8Der.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jungmannovo-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Jungmannovo_n%C3%A1m%C4%9Bst%C3%AD_(Praha)#/map/0"
+        }
+    }
+]

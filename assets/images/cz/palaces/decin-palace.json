@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/decin-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Decin.JPG"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/decin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/D%C4%9B%C4%8D%C3%ADn"
+        }
+    }
+]

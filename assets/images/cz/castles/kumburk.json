@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/kumburk.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Kumburk_letecky.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/syrenov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Sy%C5%99enov"
+        }
+    }
+]

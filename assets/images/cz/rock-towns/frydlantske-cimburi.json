@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD_-_pohled_do_%C3%BAdol%C3%AD_%C4%8Cern%C3%A9ho_potoka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Friedl%C3%A4nder_Zinne(2).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:NPR_Jizerskohorsk%C3%A9_bu%C4%8Diny,_Fr%C3%BDdlantsk%C3%A9_cimbu%C5%99%C3%AD_(8).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/frydlantske-cimburi-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.8569&mlon=15.2208&zoom=12#map=6/49.411/17.710"
+        }
+    }
+]

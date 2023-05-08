@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/palaces/loucen-palace.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_Lou%C4%8De%C5%88,_leteck%C3%BD_sn%C3%ADmek.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/loucen-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Lou%C4%8De%C5%88"
+        }
+    }
+]

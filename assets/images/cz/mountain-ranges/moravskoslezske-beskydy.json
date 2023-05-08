@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/moravskoslezske-beskydy-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Beskid_%C5%9Al%C4%85sko-Morawski_-_panorama_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/moravskoslezske-beskydy-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravian-Silesian_Beskids_(CZE)_-_from_Kun%C4%8Dice_pod_Ond%C5%99ejn%C3%ADkem.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/moravskoslezske-beskydy-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0ance_1.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/moravskoslezske-beskydy-map.svg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Beskydy_Landscape_Protected_Area_(CZE)_-_location_map.svg"
+        }
+    }
+]

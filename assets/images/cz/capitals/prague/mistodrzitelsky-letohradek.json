@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/mistodrzitelsky-letohradek-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Bubene%C4%8D,_M%C3%ADstodr%C5%BEitelsk%C3%BD_letohr%C3%A1dek,_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/mistodrzitelsky-letohradek-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Park_Baumgarten_Prag_Geb%C3%A4ude_1.2.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/mistodrzitelsky-letohradek-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/M%C3%ADstodr%C5%BEitelsk%C3%BD_letohr%C3%A1dek#/map/0"
+        }
+    }
+]

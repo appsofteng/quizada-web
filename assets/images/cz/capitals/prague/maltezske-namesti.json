@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/maltezske-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Malt%C3%A9zsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/maltezske-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Malt%C3%A9zsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/maltezske-namesti-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Malt%C3%A9zsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD,_pohled_k_Nosticov%C4%9B_ulici.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/maltezske-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Malt%C3%A9zsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD#/map/0"
+        }
+    }
+]

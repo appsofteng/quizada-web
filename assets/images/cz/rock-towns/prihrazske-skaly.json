@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/prihrazske-skaly-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Svetnicky.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/prihrazske-skaly-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ol%C5%A1ina_a_B%C5%99ezina,_z_P%C5%99%C3%ADhrazsk%C3%BDch_skal.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/prihrazske-skaly-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prihrazy17.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/prihrazske-skaly-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.5235&mlon=15.0678&zoom=15#map=6/50.523/15.068"
+        }
+    }
+]

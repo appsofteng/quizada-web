@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/moravska-trebova-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_T%C5%99ebov%C3%A1-n%C3%A1m%C4%9Bst%C3%AD_s_radnic%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/moravska-trebova-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_T%C5%99ebov%C3%A1_-_pohled_na_centr%C3%A1ln%C3%AD_%C4%8D%C3%A1st_m%C4%9Bsta,_v_pozad%C3%AD_Rychnovsk%C3%BD_vrch_(541_m)_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/moravska-trebova-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_T%C5%99ebov%C3%A1,_n%C3%A1m%C4%9Bst%C3%AD_sever.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/moravska-trebova-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Moravsk%C3%A1_T%C5%99ebov%C3%A1.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/moravska-trebova-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Moravsk%C3%A1_T%C5%99ebov%C3%A1"
+        }
+    }
+]

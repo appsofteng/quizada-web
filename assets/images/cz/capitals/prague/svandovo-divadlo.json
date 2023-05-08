@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/svandovo-divadlo-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Svandovo_divadlo_na_Smichove,_Praha.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/svandovo-divadlo-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0vandovo_divadlo_na_Sm%C3%ADchov%C4%9B.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/svandovo-divadlo-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.077811&mlon=14.404014&zoom=15#map=13/50.0778/14.4040"
+        }
+    }
+]

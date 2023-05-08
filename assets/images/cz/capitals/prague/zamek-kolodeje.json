@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/zamek-kolodeje-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Government_Castle,_Prague_Kolod%C4%9Bje.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/zamek-kolodeje-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.060556&mlon=14.635278&zoom=15#map=11/50.0606/14.6353"
+        }
+    }
+]

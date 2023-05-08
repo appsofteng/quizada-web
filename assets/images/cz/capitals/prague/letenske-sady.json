@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/letenske-sady-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hole%C5%A1ovice,_podzim_na_Letn%C3%A9.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/letenske-sady-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hrad%C4%8Dany_-_Gogolova_(Letensk%C3%A9_sady).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/letenske-sady-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Letenske_sady.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/letenske-sady-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Letn%C3%A1,_socha_obl%C3%A1zku.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/letenske-sady-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Letn%C3%A1,_sad.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/letenske-sady-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.095203&mlon=14.418163&zoom=15#map=13/50.1084/14.4385"
+        }
+    }
+]

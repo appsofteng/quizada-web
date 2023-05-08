@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/colloredo-mansfeldsky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:K%C5%99i%C5%BEovnick%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_Colloredo-Mansfeld_1.jpg"
+            }
+        }        
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/colloredo-mansfeldsky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Colloredo-Mansfeldsk%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

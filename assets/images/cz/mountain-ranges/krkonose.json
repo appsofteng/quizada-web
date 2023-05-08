@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/krkonose-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sn%C4%9B%C5%BEka_from_%C4%8Cern%C3%A1_hora_(CZE).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/krkonose-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Koz%C3%AD_h%C5%99bety2.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/krkonose-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Widok_na_Karkonosze_z_Janowic_Wielkich.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/krkonose-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Krkonose_CZ_I4A-7.png"
+        }
+    }
+]

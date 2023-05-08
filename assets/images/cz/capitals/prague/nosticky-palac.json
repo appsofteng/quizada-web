@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/nosticky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Nostic%C5%AFv_pal%C3%A1c.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/nosticky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Dominik%C3%A1n_a_Nostic_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/nosticky-palac-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.085194&mlon=14.405917&zoom=15#map=13/50.0947/14.4355"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vokovice,_Divok%C3%A1_%C5%A0%C3%A1rka,_sk%C3%A1ly_u_D%C5%BEb%C3%A1nu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PR_Divok%C3%A1_%C5%A0%C3%A1rka_-_%C3%9Adol%C3%AD_D%C5%BEb%C3%A1n.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:23.06.2012_Divoka_Sarka_Czech_(27).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:23.06.2012_Divoka_Sarka_Czech_(29).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PR_Divok%C3%A1_%C5%A0%C3%A1rka_-_Nebu%C5%A1ick%C3%A1_sk%C3%A1la2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divok%C3%A1_%C5%A0%C3%A1rka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divoka-sarka-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divok%C3%A1_%C5%A0%C3%A1rka,_jihoz%C3%A1padn%C3%AD_h%C5%99eben_D%C3%ADv%C4%8D%C3%ADho_skoku.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divoka-sarka-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/relation/962362#map=12/50.0977/14.3852"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kosarkovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Mal%C3%A1_Strana,_Kos%C3%A1rkovo_n%C3%A1b%C5%99e%C5%BE%C3%AD_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/strakova-akademie-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Strakova_akademie_z_M%C3%A1nesova_mostu_(2).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kosarkovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kos%C3%A1rkovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

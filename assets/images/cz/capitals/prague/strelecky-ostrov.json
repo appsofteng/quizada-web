@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/strelecky-ostrov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Strelecky_Isl4.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/strelecky-ostrov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Strelecky_Isl2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/strelecky-ostrov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:St%C5%99eleck%C3%BD_ostrov,_schodi%C5%A1t%C4%9B_z_mostu_Legi%C3%AD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/strelecky-ostrov-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.081125&mlon=14.410067&zoom=12#map=13/50.0811/14.4101"
+        }
+    }
+]

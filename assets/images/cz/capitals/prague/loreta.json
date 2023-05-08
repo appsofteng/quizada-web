@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/loreta-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Loreta_Monastery.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/loreta-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:CZ-Prag-loreto-santa-casa.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/loreta-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Pra%C5%BEsk%C3%A1_Loreta#/map/0"
+        }
+    }
+]

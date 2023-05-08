@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-sv-mikulase-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kostel-sv-mikulase-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_Mikul%C3%A1%C5%A1_4.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kostel-sv-mikulase-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kostel_svat%C3%A9ho_Mikul%C3%A1%C5%A1e_(Mal%C3%A1_Strana)#/map/0"
+        }
+    }
+]

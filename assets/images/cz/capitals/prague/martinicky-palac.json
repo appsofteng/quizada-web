@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/martinicky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad%C4%8Dany_Martinick%C3%BD_pal%C3%A1c_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/martinicky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Martinick%C3%BD_pal%C3%A1c_dv%C5%AFr1.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/martinicky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Martinick%C3%BD_pal%C3%A1c#/map/0"
+        }
+    }
+]

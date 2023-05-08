@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-kapucinu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hrad%C4%8Dany,_PM_And%C4%9Blsk%C3%A1_%26_Loreta_02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/klaster-kapucinu-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Loret%C3%A1nsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_kapuc%C3%ADni_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/klaster-kapucinu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%A1%C5%A1ter_kapuc%C3%ADn%C5%AF_(Hrad%C4%8Dany)#/map/0"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/zvikov.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Zv%C3%ADkov_4.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/zvikovske-podhradi-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Zv%C3%ADkovsk%C3%A9_Podhrad%C3%AD"
+        }
+    }
+]

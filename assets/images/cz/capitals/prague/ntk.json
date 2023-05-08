@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/ntk-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:NT_knihovna_Praha_2012_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/ntk-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_National_Technical_Library_facade.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/ntk-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.103912&mlon=14.390657&zoom=15#map=13/50.1039/14.3907"
+        }
+    }
+]

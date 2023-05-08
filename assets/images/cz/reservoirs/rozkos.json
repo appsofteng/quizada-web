@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/rozkos-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rozko%C5%A1_from_air_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/rozkos-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rozko%C5%A1_from_air_3.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/rozkos-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Labut%C4%9B_ve_vodn%C3%AD_n%C3%A1dr%C5%BEi_Rozko%C5%A1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/rozkos-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Rozko%C5%A1"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/castles/stramberk-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0tramberk_(CZE)_-_general_view_of_the_town.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/castles/stramberk-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stramberk-2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/castles/stramberk-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Stramberk_castle_-_View_from_Kotouc.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/castles/stramberk-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0tramberk,_hrad_od_severu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/castles/stramberk-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0tramberk,_Tr%C3%BAba.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/stramberk-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0tramberk"
+        }
+    }
+]

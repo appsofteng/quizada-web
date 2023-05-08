@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/kolin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kol%C3%ADn,_Karlovo_n%C3%A1m%C4%9Bst%C3%AD_z%C3%A1pad.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kolin-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kol%C3%ADn_market-place_-_cz.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kolin-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kolin_Bartolomej2.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kolin-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kol%C3%ADn_-_u_svat%C3%A9ho_Bartolom%C4%9Bje.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/kolin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kol%C3%ADn"
+        }
+    }
+]

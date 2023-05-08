@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-minor-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_Minor_1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-minor-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.078504&mlon=14.42184&zoom=15#map=13/50.0933/14.4442"
+        }
+    }
+]

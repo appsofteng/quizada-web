@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PR_Prokopsk%C3%A9_%C3%BAdol%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prokopsk%C3%A9_%C3%BAdol%C3%AD_Praha_-_podzim.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hlubo%C4%8Depy,_Prokopsk%C3%A9_%C3%BAdol%C3%AD_IV.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prokopsk%C3%A9_jez%C3%ADrko_(3).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hlubo%C4%8Depsk%C3%A9_viadukty,_JV,_od_zdravotn%C3%ADho_st%C5%99ediska.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/prokopske-udoli-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Jinonice,_Ka%C5%A1tanov%C3%A1_alej_v_Prokopsk%C3%A9m_%C3%BAdol%C3%AD.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/prokopske-udoli-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.041444&mlon=14.373944&zoom=15#map=12/50.0792/14.5057"
+        }
+    }
+]

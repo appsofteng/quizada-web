@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranska-beseda-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD,_Malostransk%C3%A1_beseda_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/malostranska-beseda-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha_1,_Malostransk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_35-21,_Letensk%C3%A1_35-27_20170809_004.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/malostranska-beseda-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Malostransk%C3%A1_beseda#/map/0"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/novomlynska-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:DolniNadrzVDNM.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/novomlynska-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pavlov_(BV),_P%C3%A1lava_a_Novoml%C3%BDnsk%C3%A1_n%C3%A1dr%C5%BE.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/novomlynska-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:P%C3%A1lava_South_moravia.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/novomlynska-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Novoml%C3%BDnsk%C3%A1_n%C3%A1dr%C5%BE"
+        }
+    }
+]

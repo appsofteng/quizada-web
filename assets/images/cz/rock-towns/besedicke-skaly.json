@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/besedicke-skaly-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chl%C3%A9vi%C5%A1t%C4%9B,_vyhl%C3%ADdka_Kde_domov_m%C5%AFj,_z_Husn%C3%ADkovy_vyhl%C3%ADdky.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/besedicke-skaly-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.627768&mlon=15.200269&zoom=12#map=6/49.468/17.325"
+        }
+    }
+]

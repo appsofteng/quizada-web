@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/broumov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Broumov,_rynek.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/broumov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Broumov,_n%C3%A1m%C4%9Bst%C3%AD,_01_(2017).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/broumov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1ter_Broumov_(5).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/broumov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Broumov"
+        }
+    }
+]

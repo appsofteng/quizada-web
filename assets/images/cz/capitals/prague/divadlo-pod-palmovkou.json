@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-pod-palmovkou-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_pod_Palmovkou.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/divadlo-pod-palmovkou-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Divadlo_pod_Palmovkou_b%C5%99ezen_2010.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/divadlo-pod-palmovkou-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.105499&mlon=14.473055&zoom=15#map=13/50.0847/14.4320"
+        }
+    }
+]

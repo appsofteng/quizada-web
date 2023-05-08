@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-franze-kafky-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Church-of-St-Nicholas-Old-Town--Prague2011a.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-franze-kafky-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Star%C3%A9_M%C4%9Bsto,_N%C3%A1m%C4%9Bst%C3%AD_Franze_Kafky,_Kafk%C5%AFv_d%C5%AFm.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-franze-kafky-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_Franze_Kafky#/map/0"
+        }
+    }
+]

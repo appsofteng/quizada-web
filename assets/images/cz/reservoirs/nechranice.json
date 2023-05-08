@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/nechranice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nechranice9.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/nechranice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:VD_Nechranice_-_v%C4%9B%C5%BEov%C3%BD_objekt.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/nechranice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nechranice_Dam_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/nechranice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Nechranice"
+        }
+    }
+]

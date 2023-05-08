@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/capitals/prague/libensky-zamek-1.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Libe%C5%88sk%C3%BD_z%C3%A1mek_3.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/capitals/prague/libensky-zamek-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Libe%C5%88_(z%C3%A1mek)#/map/0"
+        }
+    }
+]

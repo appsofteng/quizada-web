@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/usti-nad-labem-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%9Ast%C3%AD_nad_Labem_Montage_I.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/usti-nad-labem-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:UL-Ferdinandsh%C3%B6he-Blick-1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/usti-nad-labem-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%9Ast%C3%AD_nad_Labem,_most_Dr._E._Bene%C5%A1e_a_Mari%C3%A1nsk%C3%A1_sk%C3%A1la,_ze_%C5%BEelezni%C4%8Dn%C3%ADho_mostu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/usti-nad-labem-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%9Ast%C3%AD_nad_Labem_-_Kr%C3%A1sn%C3%A9_B%C5%99ezno,_pohled_z_Mari%C3%A1nsk%C3%A9ho_vrchu_obr02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/usti-nad-labem-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Schreckenstein_St%C5%99ekov_(castle).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/usti-nad-labem-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem"
+        }
+    }
+]

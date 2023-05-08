@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jet%C5%99ichovick%C3%A9_st%C4%9Bny_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jet%C5%99ichovick%C3%A9_st%C4%9Bny_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jet%C5%99ichovick%C3%A9_st%C4%9Bny_(7).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jet%C5%99ichovick%C3%A9_st%C4%9Bny_(3).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mariina_sk%C3%A1la_4772.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hohenleipa-KlPrebischtor4.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/rock-towns/jetrichovicke-steny-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Jet%C5%99ichovick%C3%A9_st%C4%9Bny#/map/0"
+        }
+    }
+]

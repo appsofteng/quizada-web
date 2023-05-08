@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/manesuv-most-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_Manes_Bridge.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/manesuv-most-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czech-03989_-_M%C3%A1nes_Bridge_(32176562754).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/manesuv-most-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/M%C3%A1nes%C5%AFv_most#/map/0"
+        }
+    }
+]

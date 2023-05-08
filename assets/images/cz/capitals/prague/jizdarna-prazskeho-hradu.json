@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/jizdarna-prazskeho-hradu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:J%C3%ADzd%C3%A1rna_Pra%C5%BEsk%C3%A9ho_hradu.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/jizdarna-prazskeho-hradu-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad_(05).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/jizdarna-prazskeho-hradu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/J%C3%ADzd%C3%A1rna_Pra%C5%BEsk%C3%A9ho_hradu#/map/0"
+        }
+    }
+]

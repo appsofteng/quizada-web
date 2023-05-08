@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/zizkovsky-vysilac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prag_Fernsehturm.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/zizkovsky-vysilac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Dejvice,_Baba,_pohled_k_%C5%BDi%C5%BEkovsk%C3%A9mu_vys%C3%ADla%C4%8Di.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/zizkovsky-vysilac-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.080833&mlon=14.451389&zoom=15#map=13/50.0808/14.4514"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/national-theatre-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_View_from_Petrinska_Tower_img4.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/national-theatre-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1rodn%C3%AD_divadlo_ze_St%C5%99eleck%C3%A9ho_ostrova.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/national-theatre-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.0809&mlon=14.4138&zoom=15#map=13/50.0809/14.4138"
+        }
+    }
+]

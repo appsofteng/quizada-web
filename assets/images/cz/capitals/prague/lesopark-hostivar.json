@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/lesopark-hostivar-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Hostiva%C5%99,_P%C5%99%C3%ADrodn%C3%AD_park_Hostiva%C5%99-Z%C3%A1b%C4%9Bhlice_II.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/lesopark-hostivar-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Road_by_Hostiva%C5%99_Dam,_Prague_Hostiva%C5%99.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/lesopark-hostivar-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.043834&mlon=14.529007&zoom=15#map=11/50.0438/14.5290"
+        }
+    }
+]

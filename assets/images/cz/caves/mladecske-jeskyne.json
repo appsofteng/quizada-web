@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/mladecske-jeskyne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mlade%C4%8Dsk%C3%A1_jeskyn%C4%9B_1.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/caves/mladecske-jeskyne-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mlade%C4%8Dsk%C3%A1_jeskyn%C4%9B_2.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/caves/mladecske-jeskyne-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Mlade%C4%8Dsk%C3%A9_jeskyn%C4%9B"
+        }
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/vila-marianne-gellertove-petschkove-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nov%C3%A9_s%C3%ADdlo_PNP,_b%C3%BDval%C3%A1_Petschkova_vila.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/vila-marianne-gellertove-petschkove-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Vila_Marianne_Gellertov%C3%A9-Petschkov%C3%A9#/map/0"
+        }
+    }
+]

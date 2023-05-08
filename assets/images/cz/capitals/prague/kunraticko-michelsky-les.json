@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/kunraticko-michelsky-les-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prague_Kunraticky_Forest_Centr2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kunraticko-michelsky-les-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Michle,_star%C3%BD_viadukt_u_lesa.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kunraticko-michelsky-les-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Labu%C5%A5_Pond_1,_Prague_Kr%C4%8D.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/kunraticko-michelsky-les-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kunratick%C3%BD_les,_Kunratick%C3%BD_potok,_most_k_restauraci_Na_t%C3%BD_louce_zelen%C3%BD.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/kunraticko-michelsky-les-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.025&mlon=14.472222&zoom=15#map=12/50.0922/14.4618"
+        }
+    }
+]

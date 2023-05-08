@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/caves/katerinska-jeskyne-entry.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kate%C5%99insk%C3%A1_jeskyn%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/caves/katerinska-jeskyne-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Bambusov%C3%BD_les%C3%ADk01(js).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/caves/katerinska-jeskyne-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kateřinská_jeskyně"
+        }
+    }
+]

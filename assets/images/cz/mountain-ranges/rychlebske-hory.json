@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/rychlebske-hory-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2015_G%C3%B3ry_Z%C5%82ote_z_Bor%C3%B3wkowej.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/rychlebske-hory-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kowad%C5%82o_w_G%C3%B3rach_Z%C5%82otych_PL.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/rychlebske-hory-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Prze%C5%82%C4%99cz_L%C4%85decka_od_strony_polskiej.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/rychlebske-hory-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Rychlebske_hory_CZ_I4C-5.png"
+        }
+    }
+]

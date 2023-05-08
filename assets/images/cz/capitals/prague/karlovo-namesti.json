@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/karlovo-namesti-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Park_Karlovo_n%C3%A1m%C4%9Bst%C3%AD_(Nov%C3%A9_M%C4%9Bsto)_(4).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/karlovo-namesti-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:CZ_Praha_Novemesto_Square.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/karlovo-namesti-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Karlovo_n%C3%A1m%C4%9Bst%C3%AD_(Praha)#/map/0"
+        }
+    }
+]

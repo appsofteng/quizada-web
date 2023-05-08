@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/hracholusky-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pnovany_bridge.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hracholusky-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohled_z_nebes_na_Vodn%C3%AD_n%C3%A1dr%C5%BE_Hracholusky.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hracholusky-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:02._Most_p%C5%99es_p%C5%99ehradu_Hracholusky_u_%C4%8Cer%C5%88ovic_-_Plze%C5%88_sever.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/hracholusky-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Hracholusky"
+        }
+    }
+]

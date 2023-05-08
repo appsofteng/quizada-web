@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/johanitska-komenda-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_kostel_PM_pod_%C5%99et%C4%9Bzem_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/johanitska-komenda-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_Velkop%C5%99evorsk%C3%BD_pal%C3%A1c_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/johanitska-komenda-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mal%C3%A1_Strana_L%C3%A1ze%C5%88sk%C3%A1_4,_Anglo-americk%C3%A1_vysok%C3%A1_%C5%A1kola.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/johanitska-komenda-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Johanitsk%C3%A1_komenda_(Mal%C3%A1_Strana)#/map/0"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/cisarska-louka-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cisarska_louka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/cisarska-louka-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:C%C3%ADsa%C5%99sk%C3%A1_louka,_pohled_z_p%C5%99%C3%ADvozu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/cisarska-louka-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cisarska_louka_panorama.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/cisarska-louka-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.057778&mlon=14.413889&zoom=12#map=12/50.0939/14.4439"
+        }
+    }
+]

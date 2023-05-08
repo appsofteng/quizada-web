@@ -1,0 +1,18 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/obrazarna-prazskeho-hradu-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pra%C5%BEsk%C3%BD_hrad,_2._n%C3%A1dvo%C5%99%C3%AD_05.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/obrazarna-prazskeho-hradu-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.09089306&mlon=14.39839194&zoom=13#map=13/50.0909/14.3984"
+        }
+    }
+]

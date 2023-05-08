@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/rasinovo-nabrezi-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ra%C5%A1%C3%ADnovo_n%C3%A1b%C5%99e%C5%BE%C3%AD_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/rasinovo-nabrezi-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1plavka_na_Ra%C5%A1%C3%ADnov%C4%9B_n%C3%A1b%C5%99e%C5%BE%C3%AD_v_zim%C4%9B_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/rasinovo-nabrezi-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Ra%C5%A1%C3%ADnovo_n%C3%A1b%C5%99e%C5%BE%C3%AD#/map/0"
+        }
+    }
+]

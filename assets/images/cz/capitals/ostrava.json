@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/ostrava-1.png",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ostravakolaz.png"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ostrava-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%BDhled_z_Nove_radnice_na_kostel.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ostrava-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Masarykovo_namesti.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/ostrava-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Allostrava.jpeg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/ostrava-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Ostrava"
+        }
+    }
+]

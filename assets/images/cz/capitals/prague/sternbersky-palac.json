@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/sternbersky-palac-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jelen%C3%AD_p%C5%99%C3%ADkop%CC%A0_-_Masarykova_vyhl%C3%ADdka_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/sternbersky-palac-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sternersky_palac_Praha_001.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/sternbersky-palac-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/Šternberský_palác_(Hradčany)"
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "url": "./assets/images/cz/castles/sovinec.jpg",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Castle_Sovinec.jpg"
+        }
+    },
+    {
+        "url": "./assets/images/cz/towns/sovinec-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Sovinec"
+        }
+    }
+]

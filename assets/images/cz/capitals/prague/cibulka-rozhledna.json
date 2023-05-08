@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/cibulka-rozhledna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cibulka_rozhledna_-_Praha_5.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/cibulka-rozhledna-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Cibulka-umelazhricenina.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/cibulka-rozhledna-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.064709&mlon=14.355919&zoom=15#map=12/50.0915/14.4997"
+        }
+    }
+]

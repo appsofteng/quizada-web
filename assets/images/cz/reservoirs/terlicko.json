@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/terlicko-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:T%C4%9Brlicko_P%C5%99ehrada.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/terlicko-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zbiornik_wodny_Terlicko_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/terlicko-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_T%C4%9Brlicko"
+        }
+    }
+]

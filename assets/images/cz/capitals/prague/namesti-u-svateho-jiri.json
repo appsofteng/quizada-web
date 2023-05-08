@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-u-svateho-jiri-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2011-06-11-praha-by-RalfR-051.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-u-svateho-jiri-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:N%C3%A1m%C4%9Bst%C3%AD_U_svat%C3%A9ho_Ji%C5%99%C3%AD,_Pra%C5%BEsk%C3%BD_hrad.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/namesti-u-svateho-jiri-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_n%C3%A1m%C4%9Bst%C3%AD_U_Svat%C3%A9ho_Ji%C5%99%C3%AD_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/namesti-u-svateho-jiri-map.png",
+        "source": {
+            "name": "Wikimedia, OpenStreetMap",
+            "url": "https://cs.wikipedia.org/wiki/N%C3%A1m%C4%9Bst%C3%AD_U_Svat%C3%A9ho_Ji%C5%99%C3%AD#/map/0"
+        }
+    }
+]

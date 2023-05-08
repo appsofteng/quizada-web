@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/capitals/prague/fata-morgana-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sklen%C3%ADk_Fata_Morgana.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/capitals/prague/fata-morgana-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sklen%C3%ADk_Fata_Morgana,_Pra%C5%BEsk%C3%A1_botanick%C3%A1_zahrada,_Trojsk%C3%A1_194,_Praha_-_Troja_02.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/capitals/prague/fata-morgana-map.png",
+        "source": {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/?mlat=50.1221553&mlon=14.4138317&zoom=15#map=13/50.1066/14.4166"
+        }
+    }
+]
