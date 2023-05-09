@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/kladno-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kladno_CZ_Town_Hall_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/kladno-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kladno_air_3708.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/kladno-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kladno"
+        }
+    }
+]

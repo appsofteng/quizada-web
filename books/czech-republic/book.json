@@ -5,10 +5,10 @@
         "castles": 32,
         "caves": 15,
         "mountain-ranges": 11,
-        "palaces": 36,
+        "palaces": 37,
         "regions": 14,
         "reservoirs": 20,
         "rock-towns": 15,
-        "towns": 36
+        "towns": 44
     }
 }

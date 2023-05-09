@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/palaces/lany-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pr%C5%AF%C4%8Del%C3%AD_l%C3%A1nsk%C3%A9ho_z%C3%A1mku_verze2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/palaces/lany-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:L%C3%A1ny-z%C3%A1padn%C3%AD_k%C5%99%C3%ADdlo.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/palaces/lany-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Peter_Stehlik_2011.07.30_005.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/palaces/lany-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A1mek_L%C3%A1ny,_kon%C3%ADrny_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/palaces/lany-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:L%C3%A1ny,_Czech_Republic_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/lany-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/L%C3%A1ny_(okres_Kladno)"
+        }
+    }
+]

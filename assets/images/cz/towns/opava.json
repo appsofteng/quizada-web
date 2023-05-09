@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/opava-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Troppau-Rathaus-1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/opava-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Opava,_Horn%C3%AD_n%C3%A1m%C4%9Bst%C3%AD,_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/opava-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Opava_townhall_and_trolleybus_2001.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/opava-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Centrum_m%C4%9Bsta.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/opava-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Opava"
+        }
+    }
+]

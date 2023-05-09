@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/mlada-boleslav-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad03.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/mlada-boleslav-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kostel_Nanebevzet%C3%AD_P._Marie_(Mlad%C3%A1_Boleslav).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/mlada-boleslav-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hrad_(Mlad%C3%A1_Boleslav).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/mlada-boleslav-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:KLG_0407_Mlad%C3%A1_Boleslav.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/mlada-boleslav-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:KLG_0426_Mlad%C3%A1_Boleslav.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/mlada-boleslav-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Mlad%C3%A1_Boleslav"
+        }
+    }
+]

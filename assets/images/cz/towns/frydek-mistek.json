@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/frydek-mistek-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:M%C3%ADstek,_N%C3%A1m%C4%9Bst%C3%AD_Svobody,_sever.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/frydek-mistek-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdek_Ka%C5%A1na_na_n%C3%A1m%C4%9Bst%C3%AD.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/frydek-mistek-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Frydek-Mistek_Czech_Republic2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/frydek-mistek-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Fr%C3%BDdek-M%C3%ADstek,_Fr%C3%BDdek,_Z%C3%A1meck%C3%A9_n%C3%A1m._(2016-07-06;_01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/frydek-mistek-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%BDhled_ze_svahu_Lys%C3%A9_hory_-_Fr%C3%BDdek-M%C3%ADstek.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/frydek-mistek-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Fr%C3%BDdek-M%C3%ADstek"
+        }
+    }
+]

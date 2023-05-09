@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/hodonin-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hodon%C3%ADn_-_radnice_crop.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/hodonin-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hodonin_kostel_sv_Vavrince.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/hodonin-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Hodon%C3%ADn"
+        }
+    }
+]
