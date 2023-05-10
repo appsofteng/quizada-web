@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/teplice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Teplice_(Teplitz-Sch%C3%B6nau)_-_Schlossplatz_mit_Kirche_St._Johannes_links.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/teplice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:(TTO)_M%C4%9Bstsk%C3%A9_l%C3%A1zn%C4%9B_Kamenn%C3%A9_(Teplice)_7.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/teplice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Teplice-Nam._Svobody-1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/teplice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Teplitz-Blick-1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/teplice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Teplice-Blick-1.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/teplice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Teplice"
+        }
+    }
+]

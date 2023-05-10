@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/jablonec-nad-nisou-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jablonec_nad_Nisou_2019-07_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jablonec-nad-nisou-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jablonec_nad_Nisou_2019-07_38.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jablonec-nad-nisou-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:M%C3%ADrov%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_v_Jablonci_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/jablonec-nad-nisou-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Blick_auf_Gablonz.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/jablonec-nad-nisou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Jablonec_nad_Nisou"
+        }
+    }
+]

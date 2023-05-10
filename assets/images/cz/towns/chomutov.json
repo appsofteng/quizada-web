@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/chomutov-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Souso%C5%A1%C3%AD_nejsv%C4%9Bt%C4%9Bj%C5%A1%C3%AD_trojice_na_n%C3%A1m%C4%9Bst%C3%AD_v_Chomutov%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/chomutov-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chomutov_-_Kostel_svat%C3%A9ho_Ign%C3%A1ce_01.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/chomutov-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Chomutov_2016-05-30_Celkov%C3%BD_pohled.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/chomutov-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Komotau10.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/chomutov-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Chomutov"
+        }
+    }
+]
