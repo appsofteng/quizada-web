@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/bile-karpaty-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Panoramatick%C3%BD_pohled_na_B%C3%ADl%C3%A9_Karpaty_-_kopce_Velk%C3%A1_Javo%C5%99ina,_Jelenec,_Nov%C3%A1_Hora_a_Velk%C3%BD_a_Mal%C3%BD_Lopen%C3%ADk,_okres_Uhersk%C3%A9_Hradi%C5%A1t%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/bile-karpaty-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohled_na_Kv%C4%9Btnou_a_Novou_horu_od_z%C3%A1padu,_Str%C3%A1n%C3%AD,_okres_Uhersk%C3%A9_Hradi%C5%A1t%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/bile-karpaty-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Velk%C3%A1_Javo%C5%99ina_a_Jelenec_od_Str%C3%A1n%C3%AD,_okres_Uhersk%C3%A9_Hradi%C5%A1t%C4%9B.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/bile-karpaty-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Biele_Karpaty_Jelenec.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/bile-karpaty-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/B%C3%ADl%C3%A9_Karpaty"
+        }
+    }
+]

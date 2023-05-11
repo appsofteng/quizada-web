@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_,_leteck%C3%BD_pohled.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Rasovske_sedlo_s_Javornikem.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Javorn%C3%ADk_z_Hlavice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vranovsk%C3%BD_h%C5%99eben.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_a_Jel%C3%ADnka_z_Hlavice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bdka_a_%C4%8Cern%C3%BD_vrch,_z_Je%C5%A1t%C4%9Bdu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_-_Libereck%C3%BD_kraj_-_Jizersk%C3%A9_hory_-_podzim_zima_-_prvn%C3%AD_sn%C3%ADh_11.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Jestedsko-kozakovsky_hrbet_CZ_I4A-3.png"
+        }
+    }
+]

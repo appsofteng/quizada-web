@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/strakonice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zasn%C4%9B%C5%BEen%C3%BD_st%C5%99ed_Strakonic.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/strakonice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Panorama_of_Strakonice_in_the_Czech_Republic.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/strakonice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Strakonice,_Velk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/strakonice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Strakonice,_hrad_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/strakonice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:MDF_Strakonice_2018_17_%C4%8CR_Strakonice_01.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/strakonice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Strakonice"
+        }
+    }
+]

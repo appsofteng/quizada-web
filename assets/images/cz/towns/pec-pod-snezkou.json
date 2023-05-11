@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pec_pod_Sn%C4%9B%C5%BEkou_2013.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Husova_bouda_zima,_lyzari.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:FriedhofGro%C3%9FAupa.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Na_Muld%C4%9B,_Pec_pod_Sn%C4%9B%C5%BEkou.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Czechy_-_okolice_Pec_pod_%C5%9Anie%C5%BCk%C4%85_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C5%AFm_%C4%8Dp._88,_Pec_pod_Sn%C4%9B%C5%BEkou_(02).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C5%AFm_%C4%8Dp._88,_Pec_pod_Sn%C4%9B%C5%BEkou.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Mulda_FR01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/pec-pod-snezkou-9.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vysok%C3%BD_svah,_Krkono%C5%A1e.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/pec-pod-snezkou-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Pec_pod_Sn%C4%9B%C5%BEkou"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/spindleruv-mlyn-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:13-04-02-Spindler%C5%AFv_Ml%C3%BDn_by_RalfR-26.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/spindleruv-mlyn-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0pindler%C5%AFv_Ml%C3%BDn_-_panoramio_(5).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/spindleruv-mlyn-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Koz%C3%AD_h%C5%99bety_2017.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/spindleruv-mlyn-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%BDhled-na-%C5%A0pindler%C5%AFvMl%C3%BDn-a-Viol%C3%ADk(zhruba-od-V%C3%BDrovky)2009.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/spindleruv-mlyn-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:13-04-01-Spindler%C5%AFv_Ml%C3%BDn_v_noci_(RalfR)-01.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/spindleruv-mlyn-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/%C5%A0pindler%C5%AFv_Ml%C3%BDn"
+        }
+    }
+]

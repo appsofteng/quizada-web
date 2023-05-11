@@ -1,0 +1,60 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Javorniky.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pul%C4%8D%C3%ADn-Hradisko.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Landscape_of_Javorn%C3%ADky,_Czech_Republic.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Landscape_between_Horn%C3%AD_Lide%C4%8D_and_Pul%C4%8D%C3%ADn,_Czech_Republic_12.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nov%C3%BD_Hrozenkov_-_vrch_V%C3%A1le%C4%8Dkova_Ky%C4%8Dera,_pohled_od_JZ,_obr01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Sunset_in_Javorn%C3%ADky,_Czech_Republic_16.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/javorniky-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%BDhled-mezi-Butorkami-a-%C5%A0erklavou2012.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/javorniky-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Javorn%C3%ADky"
+        }
+    }
+]

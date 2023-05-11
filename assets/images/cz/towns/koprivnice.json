@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/towns/koprivnice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kop%C5%99ivnice.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/koprivnice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kop%C5%99ivnice,_celkov%C3%BD_pohled_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/koprivnice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jaro_nad_Kop%C5%99ivnic%C3%AD.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/koprivnice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kop%C5%99ivnice_z_Kotou%C4%8De.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/towns/koprivnice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kop%C5%99ivnice,_celkov%C3%BD_pohled_(1).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/towns/koprivnice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kop%C5%99ivnice"
+        }
+    }
+]
