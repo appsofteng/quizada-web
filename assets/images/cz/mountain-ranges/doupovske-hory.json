@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%9Aho%C5%A1%C5%A5any_-_%C3%9Aho%C5%A1%C5%A5.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doupovsk%C3%A9_hory_2019-04-21_Mezi_Javornou_a_Rado%C5%A1ovem.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doupovsk%C3%A9_hory_2019-04-21_Javorn%C3%A1_-_hradi%C5%A1t%C4%9B_2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C3%9Aho%C5%A1%C5%A51.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doupovsk%C3%A9_hory_od_H%C5%AFrek_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/doupovske-hory-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Doupovsk%C3%A9_hory_od_Kr%C3%A1sn%C3%A9ho_Lesa_-_Duppaugebirge_von_Sch%C3%B6nwald_(2005)_-_panoramio.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/doupovske-hory-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Doupovske_hory_CZ_I3B-4.png"
+        }
+    }
+]

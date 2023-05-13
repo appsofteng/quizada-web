@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Nad_zaniklou_Kr%C3%A1snou_L%C3%ADpou_(2).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavkovsk%C3%BD_les_nad_%C4%8Cistou_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavkovsk%C3%BD_les_nad_V%C3%ADtkovem_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Karlovy_Vary_Jungmann%C5%AFv_alt%C3%A1n_pohled_do_%C3%BAdol%C3%AD_Tepl%C3%A9_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slavkovsk%C3%BD_les_nad_Libavou_(4).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/slavkovsky-les-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Slavkovsky_les_CZ_I3C-1.png"
+        }
+    }
+]
