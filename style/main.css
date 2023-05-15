@@ -134,12 +134,19 @@
 }
 
 #timer-semi-sircle-2 {
+  width: 20px;
+	height: 20px;  
+  background-color: blue;
+  clip-path: inset(0px 0px 0px 10px);
+}
+
+#timer-cover {
+  position: absolute;
   width: 22px;
 	height: 22px;
   top: -1px;
-  left: -1px;  
   background-color: white;
-  clip-path: inset(0px 11px 0px 0px);
+  clip-path: inset(0px 0px 0px 10px);
 }
 
 .timer-semi-sircle {
