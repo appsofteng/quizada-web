@@ -14,9 +14,10 @@
   background-color: violet;
 }
 
-.picture {
-  width: auto;
-  height: 400px;
+.logo {
+  width: 100%;
+  height: auto;
+  max-height: 40vh;
 }
 
 /* quiz image */
