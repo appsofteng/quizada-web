@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/stredoceska-pahorkatina-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pisecke_hory2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/stredoceska-pahorkatina-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kozi_Hory_2020-10-24_Podlesky_vrch_Panuv_vrch_a_Besidka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/stredoceska-pahorkatina-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pisecke_hory4.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/stredoceska-pahorkatina-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:D%C5%BEb%C3%A1ny_(688_m)_-_vrcholov%C3%BD_h%C5%99bet,_v%C3%BDhled_k_severoz%C3%A1padu.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/stredoceska-pahorkatina-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Stredoceska_pahorkatina_CZ_I2A.png"
+        }
+    }
+]

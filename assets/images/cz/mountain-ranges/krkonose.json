@@ -20,6 +20,13 @@
                 "name": "Wikimedia Commons",
                 "url": "https://commons.wikimedia.org/wiki/File:Widok_na_Karkonosze_z_Janowic_Wielkich.jpg"
             }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/krkonose-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://en.wikipedia.org/wiki/File:Krkono%C5%A1e,_od_Zlat%C3%A9ho_n%C3%A1vr%C5%A1%C3%AD_k_jihu_(01).jpg"
+            }
         }
     ],
     {

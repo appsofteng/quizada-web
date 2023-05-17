@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Skaln%C3%AD_vyhl%C3%ADdka_M%C3%A1j_u_Telet%C3%ADna_03.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Smetanova_vyhl%C3%ADdka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Smetanova_vyhl%C3%ADdka_kv%C4%9Bten_2012_06.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Smetanova_vyhl%C3%ADdka_kv%C4%9Bten_2012_04.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Slapy_-_panoramio_(3).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/stechovice-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vyhl%C3%ADdka_M%C3%A1j.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/stechovice-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_%C5%A0t%C4%9Bchovice"
+        }
+    }
+]

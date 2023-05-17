@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Skochovick%C3%BD_most_(01).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Most_Vltavan%C5%AF,_ze_star%C3%A9ho_mostu.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Skochovick%C3%BD_most_(03).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Davle_z_vyhl%C3%ADdky_u_Ole%C5%A1ka.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Skochovice_EX.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/vrane-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Skochovice_EX.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/vrane-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Vran%C3%A9"
+        }
+    }
+]

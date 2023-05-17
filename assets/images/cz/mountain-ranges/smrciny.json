@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/smrciny-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/Category:H%C3%A1j_u_A%C5%A1e#/media/File:H%C3%A1j_u_A%C5%A1e_sjezdovka_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/smrciny-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zelen%C3%A1_hora_zd%C3%A1lky_(1).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/smrciny-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:V%C3%BDhled_z_rozhledny_H%C3%A1j_u_A%C5%A1e_(1).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/smrciny-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Smrciny_CZ_I3A-1.png"
+        }
+    }
+]

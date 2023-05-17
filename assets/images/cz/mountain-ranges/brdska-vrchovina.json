@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pl%C3%A1n%C4%9B_Toku_nad_Oct%C3%A1rnou.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:PrahaZTremsina.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Z_%C4%8Certovy_kazatelny_2.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ple%C5%A1ivec_(654_m),_pohled_na_z%C3%A1pad_(002).JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Zaje%C4%8Dov_v_Brdech,_Zaje%C4%8Dov,_okr._Beroun,_St%C5%99edo%C4%8Desk%C3%BD_kraj.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:H%C5%99ebeny.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountain-ranges/brdska-vrchovina-map.png",
+        "source": {
+            "name": "Wikimedia Commons",
+            "url": "https://commons.wikimedia.org/wiki/File:Brdska_vrchovina_CZ_I5A-5.png"
+        }
+    }
+]
