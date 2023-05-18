@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/hostivar-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hostiva%C5%99sk%C3%A1_p%C5%99ehrada_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hostivar-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Autumn_in_Prague_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hostivar-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hostivarska_nadrz2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hostivar-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Hostivarska_nadrz6.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/hostivar-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vodn%C3%A1_n%C3%A1dr%C5%BE_Hostiva%C5%99.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/hostivar-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_Hostiva%C5%99"
+        }
+    }
+]

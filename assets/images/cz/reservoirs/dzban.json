@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/reservoirs/dzban-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vodn%C3%AD_n%C3%A1dr%C5%BE_D%C5%BEb%C3%A1n_01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/dzban-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vodn%C3%AD_n%C3%A1dr%C5%BE_D%C5%BEb%C3%A1n_05.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/dzban-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_Vodn%C3%AD_n%C3%A1dr%C5%BE_D%C5%BEb%C3%A1n_08.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/reservoirs/dzban-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Praha,_vodn%C3%AD_n%C3%A1dr%C5%BE_D%C5%BEb%C3%A1n_(3).jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/reservoirs/dzban-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Vodn%C3%AD_n%C3%A1dr%C5%BE_D%C5%BEb%C3%A1n"
+        }
+    }
+]
