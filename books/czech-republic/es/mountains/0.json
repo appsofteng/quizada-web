@@ -1,7 +1,8 @@
 {
     "text": [
-        "La montaña Sněžka se encuentra en la cordillera de las Montañas de los Gigantes.",
-        "La montaña Sněžka tiene una altura de 1603 m s. n. m."
+        "La montaña Sněžka es la montaña más alta de la cordillera de las Montañas de los Gigantes.",
+        "La montaña Sněžka tiene una altura de 1603 m s. n. m.",
+        "La montaña Sněžka es la montaña más alta de la República Checa."
     ],
     "image": "./assets/images/cz/mountains/snezka.json"
 }

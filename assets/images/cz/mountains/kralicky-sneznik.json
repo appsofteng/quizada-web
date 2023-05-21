@@ -1,0 +1,67 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kralicky-Sneznik-01.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kralicak.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kr%C3%A1lick%C3%BD_Sn%C4%9B%C5%BEn%C3%ADk.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kralicky-Sneznik-03.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Snieznik_Klodzki_mountain_(southern_side).jpeg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kralicky-Sneznik-02.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-7.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kr%C3%A1lick%C3%BD_Sn%C4%9B%C5%BEn%C3%ADk_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/kralicky-sneznik-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Snieznik_Klodzki_mountain_(southern_side).jpeg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/kralicky-sneznik-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kr%C3%A1lick%C3%BD_Sn%C4%9B%C5%BEn%C3%ADk_(hora)"
+        }
+    }
+]
