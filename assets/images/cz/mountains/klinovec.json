@@ -1,0 +1,46 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/klinovec-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Kl%C3%ADnovec_2014-06-08.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/klinovec-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Blatensk%C3%BD_vrch,_rozhledna,_pohled_na_Kl%C3%ADnovec.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/klinovec-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Blick_zum_Keilberg_vom_Fichtelberg_im_Winter.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/klinovec-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:BlickzumKeilberg2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/klinovec-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:BlickzumKeilberg3.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/klinovec-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Kl%C3%ADnovec"
+        }
+    }
+]

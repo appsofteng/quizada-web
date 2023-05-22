@@ -1,0 +1,25 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/velka-destna-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:De%C5%A1tn%C3%A9_v_Orlick%C3%BDch_hor%C3%A1ch,_v%C3%BDhled_na_Velkou_De%C5%A1tnou.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/velka-destna-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Velka-Destna-Blick.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/velka-destna-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Velk%C3%A1_De%C5%A1tn%C3%A1"
+        }
+    }
+]

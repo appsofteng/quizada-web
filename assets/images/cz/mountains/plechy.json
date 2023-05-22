@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/plechy-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pl%C3%B6ckenstein_Winter.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/plechy-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ploeckensteinsee_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/plechy-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pl%C3%B6ckenstein_%2B_See.JPG"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/plechy-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Plech%C3%BD"
+        }
+    }
+]

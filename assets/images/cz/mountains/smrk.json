@@ -1,0 +1,53 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/smrk-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Smrk_a_rameno_%C5%A0ance_1.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/smrk-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:2015-08-04_Mal%C3%BD_Smrk,_Smrk_a_Smr%C4%8Dek.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/smrk-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohled_na_smrk_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/smrk-4.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Pohled_na_zasn%C4%9B%C5%BEen%C3%BD_smrk_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/smrk-5.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Smrk_(Moravian-Silesian_Beskids,_CZE)_-_mountain_in_early_spring.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/smrk-6.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:%C5%A0ance_panorama.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/smrk-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Smrk_(Moravskoslezsk%C3%A9_Beskydy)"
+        }
+    }
+]
