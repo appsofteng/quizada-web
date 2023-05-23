@@ -48,6 +48,20 @@
                 "name": "Wikimedia Commons",
                 "url": "https://commons.wikimedia.org/wiki/File:LysaHoraCeskyLes_02.jpg"
             }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/cesky-les-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:HirschsteinArberTscherchov.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/cesky-les-9.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:LissaHirschsteinTscherchov.jpg"
+            }
         }
     ],
     {

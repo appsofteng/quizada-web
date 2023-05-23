@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/velka-javorina-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ve%C4%BEk%C3%A1JavorinazNovejBo%C5%A1%C3%A1ce2.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/velka-javorina-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Vysiela%C4%8D_Javorina_-_panoramio.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/velka-javorina-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Ve%C4%BEk%C3%A1JavorinazNovejBo%C5%A1%C3%A1ce.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/velka-javorina-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Velk%C3%A1_Javo%C5%99ina"
+        }
+    }
+]

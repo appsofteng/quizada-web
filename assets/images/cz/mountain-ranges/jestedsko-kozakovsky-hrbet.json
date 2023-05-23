@@ -48,6 +48,20 @@
                 "name": "Wikimedia Commons",
                 "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_-_Libereck%C3%BD_kraj_-_Jizersk%C3%A9_hory_-_podzim_zima_-_prvn%C3%AD_sn%C3%ADh_11.jpg"
             }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-8.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Je%C5%A1t%C4%9Bd_mountains.jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountain-ranges/jestedsko-kozakovsky-hrbet-9.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Jestedsky_hrbet.JPG"
+            }
         }
     ],
     {
