@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "url": "./assets/images/cz/mountains/blanik-1.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:VBlanik.JPG"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/blanik-2.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:T%C3%A1bor_a_Blan%C3%ADk,_imgp0761_(2014-07).jpg"
+            }
+        },
+        {
+            "url": "./assets/images/cz/mountains/blanik-3.jpg",
+            "source": {
+                "name": "Wikimedia Commons",
+                "url": "https://commons.wikimedia.org/wiki/File:Velk%C3%BD_Blan%C3%ADk.jpg"
+            }
+        }
+    ],
+    {
+        "url": "./assets/images/cz/mountains/blanik-map.png",
+        "source": {
+            "name": "Wikipedia",
+            "url": "https://cs.wikipedia.org/wiki/Blan%C3%ADk"
+        }
+    }
+]
